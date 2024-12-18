@@ -50,3 +50,17 @@ Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:39:07 GMT","conten
 
 [info] [2024-12-18T13:39:25.283Z] : [react-plugin]: Module not found: Error: Can't resolve './logo.svg' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
 [info] [2024-12-18T13:39:25.451Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T13:39:25.825Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-18T13:39:25.825Z] : [react-plugin]: Module not found: Error: Can't resolve './logo.svg' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-18T13:39:34.240Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T13:39:34.498Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T13:39:34.498Z] : [react-plugin]: 
+[info] [2024-12-18T13:39:34.499Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T13:39:34.499Z] : [react-plugin]: 
+[info] [2024-12-18T13:39:34.499Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T13:39:34.500Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T13:39:34.500Z] : [react-plugin]: 
+[info] [2024-12-18T13:39:34.500Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T13:39:34.500Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T13:39:34.501Z] : [react-plugin]: 
