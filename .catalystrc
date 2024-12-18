@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "24005000000069001",
+      "name": "Fitness-vital-edge",
+      "domain": {
+        "id": "10093132565",
+        "name": "fitness-vital-edge-856268337.development"
+      },
+      "timezone": "America/Los_Angeles",
+      "env": [
+        {
+          "idx": 1,
+          "id": "856268337",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

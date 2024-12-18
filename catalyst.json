@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "fitness_vital_edge_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "fitnessvitaledge",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
