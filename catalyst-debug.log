@@ -64,3 +64,362 @@ Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:39:07 GMT","conten
 [info] [2024-12-18T13:39:34.500Z] : [react-plugin]: Note that the development build is not optimized.
 [info] [2024-12-18T13:39:34.500Z] : [react-plugin]: To create a production build, use npm run build.
 [info] [2024-12-18T13:39:34.501Z] : [react-plugin]: 
+[info] [2024-12-18T13:48:41.235Z] : Shutting down server
+[info] [2024-12-18T13:48:41.292Z] : 
+[info] [2024-12-18T13:48:41.293Z] : √ Shutdown complete
+[debug] [2024-12-18T13:48:41.294Z] : NO ERRORS REGISTERED
+[debug] [2024-12-18T13:48:41.295Z] : EXEC ENDED with event: serve, message: success
+[debug] [2024-12-18T13:48:41.295Z] : TOTAL DURATION OF COMMAND EXEC : 575382
+[debug] [2024-12-18T13:48:41.308Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2024-12-18T13:48:42.440Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:48:41 GMT","content-length":"0","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:49:01.312Z] : 
+[debug] [2024-12-18T13:49:01.313Z] : ----------------------------------------------------------------------
+[debug] [2024-12-18T13:49:01.314Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2024-12-18T13:49:01.314Z] : CLI Version:  1.18.0-beta.5
+[debug] [2024-12-18T13:49:01.315Z] : Platform:     win32
+[debug] [2024-12-18T13:49:01.315Z] : Node Version: v18.20.5
+[debug] [2024-12-18T13:49:01.317Z] : Time:         Wed Dec 18 2024 19:19:01 GMT+0530 (India Standard Time)
+[debug] [2024-12-18T13:49:01.317Z] : ----------------------------------------------------------------------
+[debug] [2024-12-18T13:49:01.318Z] : 
+[debug] [2024-12-18T13:49:01.641Z] : > authorizing via signed-in user option
+[debug] [2024-12-18T13:49:01.642Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2024-12-18T13:49:01.654Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001 
+
+[debug] [2024-12-18T13:49:02.501Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:49:01 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:49:02.504Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/environment 
+
+[debug] [2024-12-18T13:49:03.232Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:49:01 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-12-18T13:49:03.464Z] : 
+[info] [2024-12-18T13:49:03.464Z] : Executing preserve script in C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\client\app\build
+[debug] [2024-12-18T13:49:03.464Z] : Executing command > catalyst run client:build && catalyst run client:packageJson
+[info] [2024-12-18T13:49:03.465Z] : > catalyst run client:build && catalyst run client:packageJson
+[info] [2024-12-18T13:49:03.469Z] : 
+[warn] [2024-12-18T13:49:03.470Z] : ‼ Skipping the serve of Client because of the error: The script exited with code greater than 0 or an error
+[info] [2024-12-18T13:49:03.471Z] : 
+[debug] [2024-12-18T13:49:03.478Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic,job"}
+
+[debug] [2024-12-18T13:49:04.192Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:49:02 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:49:04.196Z] : unknown eol undefined hence skipping check
+[info] [2024-12-18T13:49:05.498Z] : 
+[info] [2024-12-18T13:49:05.499Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2024-12-18T13:49:05.500Z] : i fitness_vital_edge_function: http://localhost:3000/server/fitness_vital_edge_function/
+[info] [2024-12-18T13:49:05.500Z] : 
+[info] [2024-12-18T13:49:35.669Z] : Shutting down server
+[info] [2024-12-18T13:49:35.720Z] : 
+[info] [2024-12-18T13:49:35.721Z] : √ Shutdown complete
+[info] [2024-12-18T13:49:35.736Z] : 
+[error] [2024-12-18T13:49:35.737Z] : × Error: The script preserve exited with the exit code greater than 0 or with an error.
+[debug] [2024-12-18T13:49:35.739Z] : Error Stack: CatalystError: The script exited with code greater than 0 or an error
+    at executeCommand (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:60:15)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:118:12)
+    at Object.executeHook (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\client-utils.js:130:38)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:14:32
+    at Generator.next (<anonymous>)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:4:12)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:13:25)
+    at Object.<anonymous> (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\index.js:48:39)
+[debug] [2024-12-18T13:49:35.739Z] : Original Error: Error: {"error":{"errno":-4058,"code":"ENOENT","syscall":"spawnSync C:\\WINDOWS\\system32\\cmd.exe","path":"C:\\WINDOWS\\system32\\cmd.exe","spawnargs":["/d","/s","/c","\"catalyst run client:build && catalyst run client:packageJson\""]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+    at executeCommand (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:62:23)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:118:12)
+    at Object.executeHook (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\client-utils.js:130:38)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:14:32
+    at Generator.next (<anonymous>)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:4:12)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:13:25)
+    at Object.<anonymous> (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\index.js:48:39)
+[debug] [2024-12-18T13:49:35.740Z] : Error Status: 500
+[info] [2024-12-18T13:49:35.740Z] : 
+[error] [2024-12-18T13:49:35.743Z] : Execution Info: 
+{
+  "error": {
+    "errno": -4058,
+    "code": "ENOENT",
+    "syscall": "spawnSync C:\\WINDOWS\\system32\\cmd.exe",
+    "path": "C:\\WINDOWS\\system32\\cmd.exe",
+    "spawnargs": [
+      "/d",
+      "/s",
+      "/c",
+      "\"catalyst run client:build && catalyst run client:packageJson\""
+    ]
+  },
+  "status": null,
+  "signal": null,
+  "output": null,
+  "pid": 0,
+  "stdout": null,
+  "stderr": null
+}
+[info] [2024-12-18T13:49:35.744Z] : 
+[error] [2024-12-18T13:49:35.745Z] : REF: https://www.zoho.com/catalyst/help/scripts.html#Run
+[debug] [2024-12-18T13:49:35.745Z] : EXEC ENDED with event: serve, message: success
+[debug] [2024-12-18T13:49:35.745Z] : TOTAL DURATION OF COMMAND EXEC : 34092
+[debug] [2024-12-18T13:49:35.757Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2024-12-18T13:49:37.282Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:49:35 GMT","content-length":"0","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:50:33.672Z] : 
+[debug] [2024-12-18T13:50:33.674Z] : ----------------------------------------------------------------------
+[debug] [2024-12-18T13:50:33.675Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2024-12-18T13:50:33.675Z] : CLI Version:  1.18.0-beta.5
+[debug] [2024-12-18T13:50:33.676Z] : Platform:     win32
+[debug] [2024-12-18T13:50:33.676Z] : Node Version: v18.20.5
+[debug] [2024-12-18T13:50:33.679Z] : Time:         Wed Dec 18 2024 19:20:33 GMT+0530 (India Standard Time)
+[debug] [2024-12-18T13:50:33.679Z] : ----------------------------------------------------------------------
+[debug] [2024-12-18T13:50:33.680Z] : 
+[debug] [2024-12-18T13:50:34.050Z] : > authorizing via signed-in user option
+[debug] [2024-12-18T13:50:34.050Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2024-12-18T13:50:34.064Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001 
+
+[debug] [2024-12-18T13:50:34.838Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:50:33 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:50:34.840Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/environment 
+
+[debug] [2024-12-18T13:50:35.660Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:50:34 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-12-18T13:50:35.858Z] : 
+[info] [2024-12-18T13:50:35.858Z] : Executing preserve script in C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\app\build
+[debug] [2024-12-18T13:50:35.859Z] : Executing command > catalyst run client:build && catalyst run client:packageJson
+[info] [2024-12-18T13:50:35.859Z] : > catalyst run client:build && catalyst run client:packageJson
+[info] [2024-12-18T13:50:35.862Z] : 
+[warn] [2024-12-18T13:50:35.863Z] : ‼ Skipping the serve of Client because of the error: The script exited with code greater than 0 or an error
+[info] [2024-12-18T13:50:35.863Z] : 
+[debug] [2024-12-18T13:50:35.869Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic,job"}
+
+[debug] [2024-12-18T13:50:36.583Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:50:35 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:50:36.587Z] : unknown eol undefined hence skipping check
+[info] [2024-12-18T13:50:37.758Z] : 
+[info] [2024-12-18T13:50:37.760Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2024-12-18T13:50:37.765Z] : i fitness_vital_edge_function: http://localhost:3000/server/fitness_vital_edge_function/
+[info] [2024-12-18T13:50:37.766Z] : 
+[info] [2024-12-18T13:51:28.668Z] : Shutting down server
+[info] [2024-12-18T13:51:28.722Z] : 
+[info] [2024-12-18T13:51:28.723Z] : √ Shutdown complete
+[info] [2024-12-18T13:51:28.735Z] : 
+[error] [2024-12-18T13:51:28.736Z] : × Error: The script preserve exited with the exit code greater than 0 or with an error.
+[debug] [2024-12-18T13:51:28.736Z] : Error Stack: CatalystError: The script exited with code greater than 0 or an error
+    at executeCommand (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:60:15)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:118:12)
+    at Object.executeHook (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\client-utils.js:130:38)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:14:32
+    at Generator.next (<anonymous>)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:4:12)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:13:25)
+    at Object.<anonymous> (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\index.js:48:39)
+[debug] [2024-12-18T13:51:28.736Z] : Original Error: Error: {"error":{"errno":-4058,"code":"ENOENT","syscall":"spawnSync C:\\WINDOWS\\system32\\cmd.exe","path":"C:\\WINDOWS\\system32\\cmd.exe","spawnargs":["/d","/s","/c","\"catalyst run client:build && catalyst run client:packageJson\""]},"status":null,"signal":null,"output":null,"pid":0,"stdout":null,"stderr":null}
+    at executeCommand (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:62:23)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:118:12)
+    at Object.executeHook (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\client-utils.js:130:38)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:14:32
+    at Generator.next (<anonymous>)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:4:12)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:13:25)
+    at Object.<anonymous> (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\index.js:48:39)
+[debug] [2024-12-18T13:51:28.736Z] : Error Status: 500
+[info] [2024-12-18T13:51:28.737Z] : 
+[error] [2024-12-18T13:51:28.740Z] : Execution Info: 
+{
+  "error": {
+    "errno": -4058,
+    "code": "ENOENT",
+    "syscall": "spawnSync C:\\WINDOWS\\system32\\cmd.exe",
+    "path": "C:\\WINDOWS\\system32\\cmd.exe",
+    "spawnargs": [
+      "/d",
+      "/s",
+      "/c",
+      "\"catalyst run client:build && catalyst run client:packageJson\""
+    ]
+  },
+  "status": null,
+  "signal": null,
+  "output": null,
+  "pid": 0,
+  "stdout": null,
+  "stderr": null
+}
+[info] [2024-12-18T13:51:28.741Z] : 
+[error] [2024-12-18T13:51:28.742Z] : REF: https://www.zoho.com/catalyst/help/scripts.html#Run
+[debug] [2024-12-18T13:51:28.742Z] : EXEC ENDED with event: serve, message: success
+[debug] [2024-12-18T13:51:28.742Z] : TOTAL DURATION OF COMMAND EXEC : 54686
+[debug] [2024-12-18T13:51:28.754Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2024-12-18T13:51:29.957Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:51:28 GMT","content-length":"0","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:51:34.104Z] : 
+[debug] [2024-12-18T13:51:34.105Z] : ----------------------------------------------------------------------
+[debug] [2024-12-18T13:51:34.106Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2024-12-18T13:51:34.106Z] : CLI Version:  1.18.0-beta.5
+[debug] [2024-12-18T13:51:34.106Z] : Platform:     win32
+[debug] [2024-12-18T13:51:34.107Z] : Node Version: v18.20.5
+[debug] [2024-12-18T13:51:34.108Z] : Time:         Wed Dec 18 2024 19:21:34 GMT+0530 (India Standard Time)
+[debug] [2024-12-18T13:51:34.109Z] : ----------------------------------------------------------------------
+[debug] [2024-12-18T13:51:34.109Z] : 
+[debug] [2024-12-18T13:51:34.470Z] : > authorizing via signed-in user option
+[debug] [2024-12-18T13:51:34.471Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2024-12-18T13:51:34.484Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001 
+
+[debug] [2024-12-18T13:51:35.286Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:51:33 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:51:35.289Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/environment 
+
+[debug] [2024-12-18T13:51:35.995Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:51:34 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-12-18T13:51:36.342Z] : 
+[info] [2024-12-18T13:51:36.343Z] : Executing preserve script in C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge
+[debug] [2024-12-18T13:51:36.343Z] : Executing command > catalyst run client:build && catalyst run client:packageJson
+[info] [2024-12-18T13:51:36.343Z] : > catalyst run client:build && catalyst run client:packageJson
+[info] [2024-12-18T13:51:41.164Z] : 
+[warn] [2024-12-18T13:51:41.166Z] : ‼ Skipping the serve of Client because of the error: The script exited with code greater than 0 or an error
+[info] [2024-12-18T13:51:41.166Z] : 
+[debug] [2024-12-18T13:51:41.174Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic,job"}
+
+[debug] [2024-12-18T13:51:41.912Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:51:40 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:51:41.916Z] : unknown eol undefined hence skipping check
+[info] [2024-12-18T13:51:43.099Z] : 
+[info] [2024-12-18T13:51:43.100Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2024-12-18T13:51:43.101Z] : i fitness_vital_edge_function: http://localhost:3000/server/fitness_vital_edge_function/
+[info] [2024-12-18T13:51:43.103Z] : 
+[info] [2024-12-18T13:52:06.888Z] : Shutting down server
+[info] [2024-12-18T13:52:06.938Z] : 
+[info] [2024-12-18T13:52:06.939Z] : √ Shutdown complete
+[info] [2024-12-18T13:52:06.947Z] : 
+[error] [2024-12-18T13:52:06.948Z] : × Error: The script preserve exited with the exit code greater than 0 or with an error.
+[debug] [2024-12-18T13:52:06.949Z] : Error Stack: CatalystError: The script exited with code greater than 0 or an error
+    at executeCommand (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:60:15)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:118:12)
+    at Object.executeHook (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\client-utils.js:130:38)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:14:32
+    at Generator.next (<anonymous>)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:4:12)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:13:25)
+    at Object.<anonymous> (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\index.js:48:39)
+[debug] [2024-12-18T13:52:06.949Z] : Original Error: Error: {"status":1,"signal":null,"output":[null,null,null],"pid":6212,"stdout":null,"stderr":null,"error":{"code":"ENOENT","errno":"ENOENT","syscall":"spawnSync catalyst run client:build && catalyst run client:packageJson","path":"catalyst run client:build && catalyst run client:packageJson","spawnargs":[]}}
+    at executeCommand (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:62:23)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\execute-script.js:118:12)
+    at Object.executeHook (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\client-utils.js:130:38)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:14:32
+    at Generator.next (<anonymous>)
+    at C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:4:12)
+    at exports.default (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\client.js:13:25)
+    at Object.<anonymous> (C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\serve\features\index.js:48:39)
+[debug] [2024-12-18T13:52:06.949Z] : Error Status: 500
+[info] [2024-12-18T13:52:06.950Z] : 
+[error] [2024-12-18T13:52:06.954Z] : Execution Info: 
+{
+  "status": 1,
+  "signal": null,
+  "output": [
+    null,
+    null,
+    null
+  ],
+  "pid": 6212,
+  "stdout": null,
+  "stderr": null,
+  "error": {
+    "code": "ENOENT",
+    "errno": "ENOENT",
+    "syscall": "spawnSync catalyst run client:build && catalyst run client:packageJson",
+    "path": "catalyst run client:build && catalyst run client:packageJson",
+    "spawnargs": []
+  }
+}
+[info] [2024-12-18T13:52:06.954Z] : 
+[error] [2024-12-18T13:52:06.956Z] : REF: https://www.zoho.com/catalyst/help/scripts.html#Run
+[debug] [2024-12-18T13:52:06.957Z] : EXEC ENDED with event: serve, message: success
+[debug] [2024-12-18T13:52:06.957Z] : TOTAL DURATION OF COMMAND EXEC : 32481
+[debug] [2024-12-18T13:52:06.966Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2024-12-18T13:52:08.672Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:52:07 GMT","content-length":"0","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:58:41.654Z] : 
+[debug] [2024-12-18T13:58:41.657Z] : ----------------------------------------------------------------------
+[debug] [2024-12-18T13:58:41.657Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2024-12-18T13:58:41.657Z] : CLI Version:  1.18.0-beta.5
+[debug] [2024-12-18T13:58:41.658Z] : Platform:     win32
+[debug] [2024-12-18T13:58:41.659Z] : Node Version: v18.20.5
+[debug] [2024-12-18T13:58:41.661Z] : Time:         Wed Dec 18 2024 19:28:41 GMT+0530 (India Standard Time)
+[debug] [2024-12-18T13:58:41.662Z] : ----------------------------------------------------------------------
+[debug] [2024-12-18T13:58:41.662Z] : 
+[debug] [2024-12-18T13:58:42.069Z] : > authorizing via signed-in user option
+[debug] [2024-12-18T13:58:42.069Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2024-12-18T13:58:42.085Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001 
+
+[debug] [2024-12-18T13:58:42.832Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:58:41 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:58:42.835Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/environment 
+
+[debug] [2024-12-18T13:58:44.755Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:58:43 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:58:45.033Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic,job"}
+
+[debug] [2024-12-18T13:58:45.728Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:58:44 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-18T13:58:45.732Z] : unknown eol undefined hence skipping check
+[info] [2024-12-18T13:58:49.883Z] : [react-plugin]: Starting the development server...
+
+[info] [2024-12-18T13:58:49.885Z] : 
+[info] [2024-12-18T13:58:49.887Z] : i Client[fitnessvitaledge]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2024-12-18T13:58:49.888Z] : 
+[info] [2024-12-18T13:58:51.779Z] : 
+[info] [2024-12-18T13:58:51.779Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2024-12-18T13:58:51.780Z] : i fitness_vital_edge_function: http://localhost:3000/server/fitness_vital_edge_function/
+[info] [2024-12-18T13:58:51.780Z] : 
+[info] [2024-12-18T13:58:51.781Z] : 
+[info] [2024-12-18T13:58:51.781Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2024-12-18T13:58:51.782Z] : i client[fitnessvitaledge]: http://localhost:3000/app/
+[info] [2024-12-18T13:58:51.782Z] : 
+[info] [2024-12-18T13:58:52.354Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T13:58:52.354Z] : [react-plugin]: 
+[info] [2024-12-18T13:58:52.355Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T13:58:52.355Z] : [react-plugin]: 
+[info] [2024-12-18T13:58:52.356Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T13:58:52.356Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T13:58:52.356Z] : [react-plugin]: 
+[info] [2024-12-18T13:58:52.357Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T13:58:52.357Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T13:58:52.358Z] : [react-plugin]: 

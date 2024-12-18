@@ -9,5 +9,5 @@
   "client": {
     "source": "fitnessvitaledge",
     "plugin": "zcatalyst-cli-plugin-react"
+    }
   }
-}
