@@ -1,0 +1,9 @@
+{
+	"name": "fitness_vital_edge_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "siddharth.eswara+us1@zohotest.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "beta"
+	}
+}
