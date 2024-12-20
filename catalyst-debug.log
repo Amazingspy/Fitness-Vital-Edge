@@ -423,3 +423,1426 @@ Response Headers: {"server":"ZGS","date":"Wed, 18 Dec 2024 13:58:44 GMT","conten
 [info] [2024-12-18T13:58:52.357Z] : [react-plugin]: Note that the development build is not optimized.
 [info] [2024-12-18T13:58:52.357Z] : [react-plugin]: To create a production build, use npm run build.
 [info] [2024-12-18T13:58:52.358Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:10.216Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:00:13.186Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T14:00:13.187Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:13.187Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T14:00:13.187Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:13.187Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T14:00:13.188Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T14:00:13.189Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:13.189Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T14:00:13.189Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T14:00:13.190Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:23.154Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:00:23.392Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T14:00:23.393Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:23.393Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T14:00:23.393Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:23.394Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T14:00:23.395Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T14:00:23.395Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:23.395Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T14:00:23.396Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T14:00:23.396Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:42.156Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:00:42.325Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T14:00:42.326Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:42.326Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T14:00:42.326Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:42.326Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T14:00:42.327Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T14:00:42.327Z] : [react-plugin]: 
+[info] [2024-12-18T14:00:42.328Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T14:00:42.329Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T14:00:42.332Z] : [react-plugin]: 
+[info] [2024-12-18T14:05:24.407Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:05:24.642Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-18T14:05:24.642Z] : [react-plugin]: Module not found: Error: Can't resolve './Assets/dashboard.' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-18T14:05:27.255Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:05:27.431Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T14:05:27.432Z] : [react-plugin]: 
+[info] [2024-12-18T14:05:27.432Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T14:05:27.432Z] : [react-plugin]: 
+[info] [2024-12-18T14:05:27.433Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T14:05:27.433Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T14:05:27.434Z] : [react-plugin]: 
+[info] [2024-12-18T14:05:27.434Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T14:05:27.434Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T14:05:27.435Z] : [react-plugin]: 
+[info] [2024-12-18T14:05:53.087Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:05:53.247Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T14:05:53.248Z] : [react-plugin]: 
+[info] [2024-12-18T14:05:53.248Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T14:05:53.248Z] : [react-plugin]: 
+[info] [2024-12-18T14:05:53.248Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T14:05:53.249Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T14:05:53.249Z] : [react-plugin]: 
+[info] [2024-12-18T14:05:53.250Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T14:05:53.250Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T14:05:53.250Z] : [react-plugin]: 
+[info] [2024-12-18T14:06:39.546Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:06:39.709Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:06:39.709Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:8:  'image' is defined but never used  no-unused-vars
+[info] [2024-12-18T14:06:39.711Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:06:39.711Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:06:48.471Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:06:48.617Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:06:48.617Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:8:  'image' is defined but never used  no-unused-vars
+[info] [2024-12-18T14:06:48.617Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:06:48.618Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:06:50.915Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:06:51.149Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:06:51.149Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:8:  'image' is defined but never used  no-unused-vars
+[info] [2024-12-18T14:06:51.150Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:06:51.150Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:06:56.316Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:06:56.496Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-18T14:06:56.497Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:17:  'da' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+[info] [2024-12-18T14:07:00.155Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:07:00.314Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T14:07:00.315Z] : [react-plugin]: 
+[info] [2024-12-18T14:07:00.315Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T14:07:00.315Z] : [react-plugin]: 
+[info] [2024-12-18T14:07:00.315Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T14:07:00.316Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T14:07:00.316Z] : [react-plugin]: 
+[info] [2024-12-18T14:07:00.317Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T14:07:00.317Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T14:07:00.317Z] : [react-plugin]: 
+[info] [2024-12-18T14:07:05.615Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:07:05.793Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:07:05.794Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:7:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+[info] [2024-12-18T14:07:05.794Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:07:05.795Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:08:16.073Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:08:16.400Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:08:16.400Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:7:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+[info] [2024-12-18T14:08:16.400Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:08:16.401Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:08:39.804Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:08:41.913Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:08:41.913Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:7:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+[info] [2024-12-18T14:08:41.914Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:08:41.914Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:08:59.724Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:09:00.015Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:09:00.016Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:7:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+[info] [2024-12-18T14:09:00.017Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:09:00.018Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:09:04.915Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:09:05.063Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:09:05.063Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:7:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+[info] [2024-12-18T14:09:05.064Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:09:05.065Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:09:21.344Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:09:21.549Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:09:21.549Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:7:  Redundant alt attribute. Screen-readers already announce `img` tags as an image. You don’t need to use the words `image`, `photo,` or `picture` (or any specified custom words) in the alt prop  jsx-a11y/img-redundant-alt
+[info] [2024-12-18T14:09:21.550Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:09:21.550Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:10:22.947Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:10:23.239Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-18T14:10:23.240Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:8:  'image' is defined but never used  no-unused-vars
+[info] [2024-12-18T14:10:23.241Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-18T14:10:23.242Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-18T14:10:31.391Z] : [react-plugin]: Compiling...
+[info] [2024-12-18T14:10:31.554Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-18T14:10:31.554Z] : [react-plugin]: 
+[info] [2024-12-18T14:10:31.555Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-18T14:10:31.555Z] : [react-plugin]: 
+[info] [2024-12-18T14:10:31.555Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-18T14:10:31.556Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-18T14:10:31.556Z] : [react-plugin]: 
+[info] [2024-12-18T14:10:31.557Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-18T14:10:31.557Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-18T14:10:31.558Z] : [react-plugin]: 
+[info] [2024-12-18T14:11:09.039Z] : 
+change of index.js in fitness_vital_edge_function detected. Preparing your function, please wait...
+[info] [2024-12-18T14:11:10.071Z] : i AdvancedIO[fitness_vital_edge_function]: ready!
+[info] [2024-12-18T14:11:10.072Z] : i AdvancedIO[fitness_vital_edge_function]: http://localhost:3000/server/fitness_vital_edge_function/
+[info] [2024-12-18T14:13:23.009Z] : 
+change of package.json in fitness_vital_edge_function detected. Preparing your function, please wait...
+[info] [2024-12-18T14:13:30.321Z] : i AdvancedIO[fitness_vital_edge_function]: ready!
+[info] [2024-12-18T14:13:30.322Z] : i AdvancedIO[fitness_vital_edge_function]: http://localhost:3000/server/fitness_vital_edge_function/
+[debug] [2024-12-19T09:31:11.893Z] : > refreshing access token <
+[debug] [2024-12-19T09:31:11.913Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-12-19T09:31:12.987Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 19 Dec 2024 09:31:13 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"close","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-12-19T12:53:13.162Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:53:13.974Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-19T12:53:13.975Z] : [react-plugin]: 
+[info] [2024-12-19T12:53:13.975Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-19T12:53:13.975Z] : [react-plugin]: 
+[info] [2024-12-19T12:53:13.975Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-19T12:53:13.977Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-19T12:53:13.977Z] : [react-plugin]: 
+[info] [2024-12-19T12:53:13.978Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-19T12:53:13.980Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-19T12:53:13.981Z] : [react-plugin]: 
+[debug] [2024-12-19T12:53:14.308Z] : > refreshing access token <
+[debug] [2024-12-19T12:53:14.310Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-12-19T12:53:15.048Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 19 Dec 2024 12:53:15 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"close","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-12-19T12:53:52.114Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:53:52.353Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:53:52.354Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected keyword 'function'. (4:0)
+  2 | import './App.css';
+  3 | import 
+> 4 | function App() {
+    | ^
+  5 |   
+  6 |   return (
+  7 |     <div className="App">
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-19T12:54:01.781Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:54:01.928Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-19T12:54:01.929Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:8:  'Sidebar' is defined but never used  no-unused-vars
+[info] [2024-12-19T12:54:01.930Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-19T12:54:01.933Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-19T12:54:10.435Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:54:11.422Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-19T12:54:11.422Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:8:  'Sidebar' is defined but never used  no-unused-vars
+[info] [2024-12-19T12:54:11.423Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-19T12:54:11.423Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-19T12:54:18.435Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:54:18.629Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-19T12:54:18.629Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:8:  'Sidebar' is defined but never used  no-unused-vars
+[info] [2024-12-19T12:54:18.630Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-19T12:54:18.630Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-19T12:54:31.130Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:54:31.359Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-19T12:54:31.359Z] : [react-plugin]: 
+[info] [2024-12-19T12:54:31.360Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-19T12:54:31.360Z] : [react-plugin]: 
+[info] [2024-12-19T12:54:31.360Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-19T12:54:31.360Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-19T12:54:31.360Z] : [react-plugin]: 
+[info] [2024-12-19T12:54:31.361Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-19T12:54:31.361Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-19T12:54:31.361Z] : [react-plugin]: 
+[info] [2024-12-19T12:56:04.905Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:56:05.266Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-19T12:56:05.267Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:8:  'Sidebar' is defined but never used  no-unused-vars
+[info] [2024-12-19T12:56:05.267Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-19T12:56:05.268Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-19T12:57:03.164Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:57:03.385Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:57:03.386Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token, expected "from" (4:0)
+  2 | import './App.css';
+  3 | import browser
+> 4 | import Sidebar from './Components/Sidebar/Sidebar'
+    | ^
+  5 | function App() {
+  6 |   
+  7 |   return (
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-19T12:57:16.480Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:57:16.664Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:57:16.666Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected keyword 'import'. (4:0)
+  2 | import './App.css';
+  3 | import 
+> 4 | import Sidebar from './Components/Sidebar/Sidebar'
+    | ^
+  5 | function App() {
+  6 |   
+  7 |   return (
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-19T12:57:20.563Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:57:20.719Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:57:20.721Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token, expected "from" (4:0)
+  2 | import './App.css';
+  3 | import {}
+> 4 | import Sidebar from './Components/Sidebar/Sidebar'
+    | ^
+  5 | function App() {
+  6 |   
+  7 |   return (
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-19T12:57:26.046Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:57:26.207Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:57:26.209Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token, expected "from" (4:0)
+  2 | import './App.css';
+  3 | import {Bro}
+> 4 | import Sidebar from './Components/Sidebar/Sidebar'
+    | ^
+  5 | function App() {
+  6 |   
+  7 |   return (
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-19T12:57:41.667Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:57:41.878Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:57:41.878Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T12:57:49.224Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:57:49.363Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:57:49.365Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token, expected "from" (6:0)
+  4 | import Sidebar from './Components/Sidebar/Sidebar'
+  5 | import Topbar
+> 6 | function App() {
+    | ^
+  7 |   
+  8 |   return (
+  9 |     <div className="App">
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-19T12:57:58.287Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:57:58.465Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:57:58.466Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T12:58:03.725Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:58:04.148Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:58:04.149Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T12:58:09.623Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:58:09.822Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:58:09.823Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T12:58:27.378Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:58:27.521Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:58:27.522Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (10:4)
+   8 |     <div className="App">
+   9 |       <Br
+> 10 |     </div>
+     |     ^
+  11 |   );
+  12 | }
+  13 |
+[info] [2024-12-19T12:58:29.548Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:58:29.701Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:58:29.702Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (10:4)
+   8 |     <div className="App">
+   9 |       <Bro
+> 10 |     </div>
+     |     ^
+  11 |   );
+  12 | }
+  13 |
+[info] [2024-12-19T12:58:45.724Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:58:45.927Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:58:45.927Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T12:58:48.382Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T12:58:48.714Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T12:58:48.715Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T13:00:12.077Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:00:12.278Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:00:12.278Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T13:00:12.339Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:00:12.476Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:00:12.477Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T13:00:14.405Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:00:14.595Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:00:14.595Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T13:00:14.656Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:00:15.024Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:00:15.024Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-router-dom' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-19T13:00:15.120Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:00:16.322Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:00:16.322Z] : [react-plugin]: Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+[info] [2024-12-19T13:00:17.646Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:00:18.165Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:00:18.179Z] : [react-plugin]: Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+[info] [2024-12-19T13:00:18.389Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:00:23.716Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:00:23.717Z] : [react-plugin]: Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+[info] [2024-12-19T13:00:23.811Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:00:24.245Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:00:24.246Z] : [react-plugin]: Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+[info] [2024-12-19T13:01:10.587Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:01:11.332Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:01:11.333Z] : [react-plugin]: Attempted import error: 'BrowserRouter' is not exported from 'react-router-dom' (imported as 'Router').
+[info] [2024-12-19T13:01:48.967Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:01:49.306Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:01:49.308Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Identifier 'Route' has already been declared. (3:41)
+  1 |
+  2 | import './App.css';
+> 3 | import { BrowserRouter as Route, Routes, Route } from 'react-router-dom'
+    |                                          ^
+  4 | import Sidebar from './Components/Sidebar/Sidebar'
+  5 | function App() {
+  6 |   
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-19T13:01:53.489Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:01:55.568Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-19T13:01:55.568Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:35:  'Routes' is defined but never used  no-unused-vars
+  Line 3:43:  'Route' is defined but never used   no-unused-vars
+[info] [2024-12-19T13:01:55.569Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-19T13:01:55.569Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-19T13:01:55.602Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:01:55.689Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-19T13:01:55.692Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:35:  'Routes' is defined but never used  no-unused-vars
+  Line 3:43:  'Route' is defined but never used   no-unused-vars
+[info] [2024-12-19T13:01:55.693Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-19T13:01:55.694Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-19T13:02:08.449Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:02:08.654Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-19T13:02:08.656Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (14:6)
+  12 |       <div className="main-content">
+  13 |         <R
+> 14 |       </div>
+     |       ^
+  15 |     </div>
+  16 |   );
+  17 | }
+[info] [2024-12-19T13:02:12.449Z] : [react-plugin]: Compiling...
+[info] [2024-12-19T13:02:12.742Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-19T13:02:12.743Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:43:  'Route' is defined but never used  no-unused-vars
+[info] [2024-12-19T13:02:12.743Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-19T13:02:12.744Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[debug] [2024-12-20T07:05:24.705Z] : > refreshing access token <
+[debug] [2024-12-20T07:05:24.820Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-12-20T07:05:25.799Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 20 Dec 2024 07:05:26 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"close","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-12-20T07:13:15.005Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:13:15.579Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:13:15.580Z] : [react-plugin]: Module not found: Error: Cannot find file: 'Sidebar.js' does not match the corresponding name on disk: '.\src\components\Sidebar\Components'.
+[info] [2024-12-20T07:13:39.291Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:13:39.413Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:13:39.414Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (15:8)
+  13 |       <div className="main-content">
+  14 |         <
+> 15 |         <Routes>
+     |         ^
+  16 |           
+  17 |         </Routes>
+  18 |       </div>
+[info] [2024-12-20T07:13:45.096Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:13:45.339Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:13:45.339Z] : [react-plugin]: Module not found: Error: Cannot find file: 'Sidebar.js' does not match the corresponding name on disk: '.\src\components\Sidebar\Components'.
+[info] [2024-12-20T07:14:05.073Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:14:05.267Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:14:05.267Z] : [react-plugin]: Module not found: Error: Can't resolve './Components/Sidebar/' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:14:07.688Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:14:07.928Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:14:07.929Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 13:10:  'Topbar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+[info] [2024-12-20T07:14:09.250Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:14:09.336Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:14:09.337Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 13:10:  'Topbar' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+[info] [2024-12-20T07:14:23.415Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:14:23.581Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:14:23.581Z] : [react-plugin]: Module not found: Error: Can't resolve './Components/' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:15:44.342Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:15:44.641Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:15:44.642Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:43:  'Route' is defined but never used  no-unused-vars
+[info] [2024-12-20T07:15:44.642Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:15:44.643Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:16:13.942Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:16:14.134Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:16:14.135Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:35:  'Routes' is defined but never used  no-unused-vars
+  Line 3:43:  'Route' is defined but never used   no-unused-vars
+[info] [2024-12-20T07:16:14.135Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:16:14.136Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:16:19.761Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:16:19.950Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:16:19.951Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 3:43:  'Route' is defined but never used  no-unused-vars
+[info] [2024-12-20T07:16:19.951Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:16:19.951Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:16:26.819Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:16:26.955Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:16:26.956Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (17:8)
+  15 |         <Routes>
+  16 |           <Route path=''
+> 17 |         </Routes>
+     |         ^
+  18 |       </div>
+  19 |     </div>
+  20 |   );
+[info] [2024-12-20T07:16:33.589Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:16:33.705Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:16:33.708Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (17:9)
+  15 |         <Routes>
+  16 |           <Route path='/' element= 
+> 17 |         </Routes>
+     |          ^
+  18 |       </div>
+  19 |     </div>
+  20 |   );
+[info] [2024-12-20T07:16:39.432Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:16:39.536Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:16:39.538Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (16:35)
+  14 |         <Topbar/>
+  15 |         <Routes>
+> 16 |           <Route path='/' element= {}></Route>
+     |                                    ^
+  17 |         </Routes>
+  18 |       </div>
+  19 |     </div>
+[info] [2024-12-20T07:16:55.338Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:16:55.471Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:16:55.473Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (16:35)
+  14 |         <Topbar/>
+  15 |         <Routes>
+> 16 |           <Route path='/' element= {}></>
+     |                                    ^
+  17 |         </Routes>
+  18 |       </div>
+  19 |     </div>
+[info] [2024-12-20T07:16:58.537Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:16:58.705Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:16:58.707Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (16:35)
+  14 |         <Topbar/>
+  15 |         <Routes>
+> 16 |           <Route path='/' element= {}>/>
+     |                                    ^
+  17 |         </Routes>
+  18 |       </div>
+  19 |     </div>
+[info] [2024-12-20T07:17:11.663Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:17:11.775Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:17:11.777Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (16:35)
+  14 |         <Topbar/>
+  15 |         <Routes>
+> 16 |           <Route path='/' element= {  }/>
+     |                                    ^
+  17 |         </Routes>
+  18 |       </div>
+  19 |     </div>
+[info] [2024-12-20T07:17:13.746Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:17:13.875Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:17:13.876Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (16:35)
+  14 |         <Topbar/>
+  15 |         <Routes>
+> 16 |           <Route path='/' element= {  } />
+     |                                    ^
+  17 |         </Routes>
+  18 |       </div>
+  19 |     </div>
+[info] [2024-12-20T07:17:30.845Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:17:30.986Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:17:30.987Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected keyword 'function'. (10:0)
+   8 | import 
+   9 |
+> 10 | function App() {
+     | ^
+  11 |   
+  12 |   return (
+  13 |     <div className="App">
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-20T07:17:38.638Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:17:38.804Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:17:38.805Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (20:35)
+  18 |         <Topbar/>
+  19 |         <Routes>
+> 20 |           <Route path='/' element= {  } />
+     |                                    ^
+  21 |         </Routes>
+  22 |       </div>
+  23 |     </div>
+[info] [2024-12-20T07:17:41.133Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:17:41.202Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:17:41.204Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (20:35)
+  18 |         <Topbar/>
+  19 |         <Routes>
+> 20 |           <Route path='/' element= {  } />
+     |                                    ^
+  21 |         </Routes>
+  22 |       </div>
+  23 |     </div>
+[info] [2024-12-20T07:17:47.768Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:17:47.848Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:17:47.850Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (20:35)
+  18 |         <Topbar/>
+  19 |         <Routes>
+> 20 |           <Route path='/' element= {  } />
+     |                                    ^
+  21 |         </Routes>
+  22 |       </div>
+  23 |     </div>
+[info] [2024-12-20T07:17:52.568Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:17:52.639Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:17:52.641Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (20:35)
+  18 |         <Topbar/>
+  19 |         <Routes>
+> 20 |           <Route path='/' element= {  } />
+     |                                    ^
+  21 |         </Routes>
+  22 |       </div>
+  23 |     </div>
+[info] [2024-12-20T07:18:36.760Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:18:36.846Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:18:36.847Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (20:35)
+  18 |         <Topbar/>
+  19 |         <Routes>
+> 20 |           <Route path='/' element= {  } />
+     |                                    ^
+  21 |         </Routes>
+  22 |       </div>
+  23 |     </div>
+[info] [2024-12-20T07:18:48.532Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:18:48.608Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:18:48.610Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (20:35)
+  18 |         <Topbar/>
+  19 |         <Routes>
+> 20 |           <Route path='/' element= {  } />
+     |                                    ^
+  21 |         </Routes>
+  22 |       </div>
+  23 |     </div>
+[info] [2024-12-20T07:18:57.636Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:18:58.162Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:18:58.162Z] : [react-plugin]: 
+[info] [2024-12-20T07:18:58.162Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:18:58.163Z] : [react-plugin]: 
+[info] [2024-12-20T07:18:58.163Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:18:58.163Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:18:58.163Z] : [react-plugin]: 
+[info] [2024-12-20T07:18:58.163Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:18:58.164Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:18:58.164Z] : [react-plugin]: 
+[info] [2024-12-20T07:19:00.370Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:19:00.510Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:19:00.512Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (20:47)
+  18 |         <Topbar/>
+  19 |         <Routes>
+> 20 |           <Route path='/' element= { <HomePage } />
+     |                                                ^
+  21 |         </Routes>
+  22 |       </div>
+  23 |     </div>
+[info] [2024-12-20T07:19:02.958Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:19:03.173Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:19:03.174Z] : [react-plugin]: 
+[info] [2024-12-20T07:19:03.174Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:19:03.174Z] : [react-plugin]: 
+[info] [2024-12-20T07:19:03.175Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:19:03.175Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:19:03.175Z] : [react-plugin]: 
+[info] [2024-12-20T07:19:03.176Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:19:03.176Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:19:03.177Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:16.237Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:20:16.425Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:20:16.426Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unterminated JSX contents. (24:10)
+  22 |         
+  23 |       </div>
+> 24 |     </div>
+     |           ^
+  25 |   );
+  26 | }
+  27 |
+[info] [2024-12-20T07:20:18.590Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:20:18.793Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:20:18.793Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:18.793Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:20:18.793Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:18.793Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:20:18.794Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:20:18.794Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:18.795Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:20:18.795Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:20:18.795Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:18.818Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:20:18.983Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:20:18.984Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:18.984Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:20:18.984Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:18.985Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:20:18.985Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:20:18.986Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:18.986Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:20:18.986Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:20:18.987Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:32.825Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:20:32.990Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:20:32.991Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:32.991Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:20:32.991Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:32.991Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:20:32.991Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:20:32.992Z] : [react-plugin]: 
+[info] [2024-12-20T07:20:32.992Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:20:32.992Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:20:32.993Z] : [react-plugin]: 
+[info] [2024-12-20T07:21:25.255Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:21:25.374Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:21:25.375Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (19:10)
+  17 |             <Route path="/" element={<HomePage />} />
+  18 |             <Route path='Dashboard'
+> 19 |           </Routes>
+     |           ^
+  20 |         </div>
+  21 |       </div>
+  22 |     </Router>
+[info] [2024-12-20T07:21:29.633Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:21:29.811Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:21:29.812Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (19:10)
+  17 |             <Route path="/" element={<HomePage />} />
+  18 |             <Route path='Dashboard' element
+> 19 |           </Routes>
+     |           ^
+  20 |         </div>
+  21 |       </div>
+  22 |     </Router>
+[info] [2024-12-20T07:21:42.028Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:21:42.156Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:21:42.158Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (20:10)
+  18 |             <Route path="/" element={<HomePage />} />
+  19 |             <Route path='Dashboard' element
+> 20 |           </Routes>
+     |           ^
+  21 |         </div>
+  22 |       </div>
+  23 |     </Router>
+[info] [2024-12-20T07:21:48.359Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:21:48.452Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:21:48.454Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (20:10)
+  18 |             <Route path="/" element={<HomePage />} />
+  19 |             <Route path='Dashboard' element
+> 20 |           </Routes>
+     |           ^
+  21 |         </div>
+  22 |       </div>
+  23 |     </Router>
+[info] [2024-12-20T07:21:56.295Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:21:56.359Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:21:56.361Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (20:10)
+  18 |             <Route path="/" element={<HomePage />} />
+  19 |             <Route path='Dashboard' element
+> 20 |           </Routes>
+     |           ^
+  21 |         </div>
+  22 |       </div>
+  23 |     </Router>
+[info] [2024-12-20T07:22:01.391Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:01.488Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:01.490Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token, expected "from" (8:13)
+   6 | // Pages
+   7 | import HomePage from './Pages/HomePage/HomePage/HomePage';
+>  8 | import  from './'
+     |              ^
+   9 |
+  10 | function App() {
+  11 |   return (
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-20T07:22:10.726Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:10.868Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:10.870Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (20:10)
+  18 |             <Route path="/" element={<HomePage />} />
+  19 |             <Route path='Dashboard' element
+> 20 |           </Routes>
+     |           ^
+  21 |         </div>
+  22 |       </div>
+  23 |     </Router>
+[info] [2024-12-20T07:22:14.493Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:14.568Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:14.570Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (20:10)
+  18 |             <Route path="/" element={<HomePage />} />
+  19 |             <Route path='Dashboard' element
+> 20 |           </Routes>
+     |           ^
+  21 |         </div>
+  22 |       </div>
+  23 |     </Router>
+[info] [2024-12-20T07:22:20.740Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:20.822Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:20.823Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (20:10)
+  18 |             <Route path="/" element={<HomePage />} />
+  19 |             <Route path='Dashboard' element
+> 20 |           </Routes>
+     |           ^
+  21 |         </div>
+  22 |       </div>
+  23 |     </Router>
+[info] [2024-12-20T07:22:28.811Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:28.884Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:28.886Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (20:10)
+  18 |             <Route path="/" element={<HomePage />} />
+  19 |             <Route path='Dashboard' element
+> 20 |           </Routes>
+     |           ^
+  21 |         </div>
+  22 |       </div>
+  23 |     </Router>
+[info] [2024-12-20T07:22:34.587Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:34.691Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:34.693Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (19:44)
+  17 |           <Routes>
+  18 |             <Route path="/" element={<HomePage />} />
+> 19 |             <Route path='Dashboard' element={}
+     |                                             ^
+  20 |           </Routes>
+  21 |         </div>
+  22 |       </div>
+[info] [2024-12-20T07:22:39.058Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:39.265Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:39.266Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: JSX attributes must only be assigned a non-empty expression. (19:44)
+  17 |           <Routes>
+  18 |             <Route path="/" element={<HomePage />} />
+> 19 |             <Route path='Dashboard' element={} />
+     |                                             ^
+  20 |           </Routes>
+  21 |         </div>
+  22 |       </div>
+[info] [2024-12-20T07:22:42.364Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:42.458Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:42.459Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected token (19:46)
+  17 |           <Routes>
+  18 |             <Route path="/" element={<HomePage />} />
+> 19 |             <Route path='Dashboard' element={<} />
+     |                                               ^
+  20 |           </Routes>
+  21 |         </div>
+  22 |       </div>
+[info] [2024-12-20T07:22:44.946Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:22:45.343Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:22:45.343Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/MealPlan/MealPlan/MealPlan' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:23:05.947Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:23:06.130Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:23:06.130Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:23:18.698Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:23:18.928Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:23:18.928Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/MealPlanPage/MealPlanPage/MealPlanPage' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:23:23.326Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:23:23.503Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:23:23.503Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/MealPlanPage/MealPlanPage' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:23:39.057Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:23:39.284Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:23:39.284Z] : [react-plugin]: Attempted import error: './' does not contain a default export (imported as 'MealPlan').
+[info] [2024-12-20T07:23:44.287Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:23:44.505Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:23:44.505Z] : [react-plugin]: Attempted import error: '.' does not contain a default export (imported as 'MealPlan').
+[info] [2024-12-20T07:24:01.490Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:24:01.686Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:24:01.687Z] : [react-plugin]: Attempted import error: './' does not contain a default export (imported as 'MealPlan').
+[info] [2024-12-20T07:24:07.873Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:24:08.078Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:24:08.079Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/HomePage/' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:24:35.835Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:24:35.836Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/HomePage/HomePage/HomePage' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:25:00.119Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:25:00.413Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:25:00.413Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/HomePage/' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:25:03.751Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:25:03.970Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:25:03.971Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/HomePage/HomePage/HomePage' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:25:14.866Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:25:15.037Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:25:15.037Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/HomePage/' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:25:24.060Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:25:24.425Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:25:24.425Z] : [react-plugin]: 
+[info] [2024-12-20T07:25:24.425Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:25:24.425Z] : [react-plugin]: 
+[info] [2024-12-20T07:25:24.425Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:25:24.426Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:25:24.426Z] : [react-plugin]: 
+[info] [2024-12-20T07:25:24.426Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:25:24.426Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:25:24.426Z] : [react-plugin]: 
+[info] [2024-12-20T07:25:47.774Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:25:47.886Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:25:47.887Z] : [react-plugin]: 
+[info] [2024-12-20T07:25:47.887Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:25:47.887Z] : [react-plugin]: 
+[info] [2024-12-20T07:25:47.887Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:25:47.888Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:25:47.888Z] : [react-plugin]: 
+[info] [2024-12-20T07:25:47.889Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:25:47.889Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:25:47.890Z] : [react-plugin]: 
+[info] [2024-12-20T07:26:34.557Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:26:34.724Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:26:34.726Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.js: Unexpected keyword 'function'. (11:0)
+   9 | import 
+  10 |
+> 11 | function App() {
+     | ^
+  12 |   return (
+  13 |     <Router>
+  14 |       <div className="App">
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2024-12-20T07:27:15.762Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:27:16.234Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:27:16.234Z] : [react-plugin]: Module not found: Error: Can't resolve './Pages/' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src'
+[info] [2024-12-20T07:27:17.641Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:27:18.135Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:27:18.136Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:8:   'Progress' is defined but never used  no-unused-vars
+  Line 10:8:  'Workout' is defined but never used   no-unused-vars
+[info] [2024-12-20T07:27:18.136Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:27:18.136Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:27:45.390Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:27:45.583Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:27:45.583Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:8:   'Progress' is defined but never used  no-unused-vars
+  Line 10:8:  'Workout' is defined but never used   no-unused-vars
+[info] [2024-12-20T07:27:45.584Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:27:45.585Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:27:53.611Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:27:53.840Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:27:53.840Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:8:   'Progress' is defined but never used  no-unused-vars
+  Line 10:8:  'Workout' is defined but never used   no-unused-vars
+[info] [2024-12-20T07:27:53.842Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:27:53.842Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:28:17.510Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:28:17.755Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:28:17.755Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 9:8:   'Progress' is defined but never used  no-unused-vars
+  Line 10:8:  'Workout' is defined but never used   no-unused-vars
+[info] [2024-12-20T07:28:17.756Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:28:17.757Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:28:20.479Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:28:20.699Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:28:20.700Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 22:46:  'MealPPlan' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+[info] [2024-12-20T07:28:25.497Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:28:25.755Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:28:25.755Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 10:8:  'Workout' is defined but never used  no-unused-vars
+[info] [2024-12-20T07:28:25.755Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:28:25.756Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:28:29.415Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:28:29.625Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:28:29.626Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 10:8:  'Workout' is defined but never used  no-unused-vars
+[info] [2024-12-20T07:28:29.626Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:28:29.626Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:28:34.916Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:28:35.119Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:28:35.119Z] : [react-plugin]: 
+[info] [2024-12-20T07:28:35.120Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:28:35.120Z] : [react-plugin]: 
+[info] [2024-12-20T07:28:35.120Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:28:35.120Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:28:35.120Z] : [react-plugin]: 
+[info] [2024-12-20T07:28:35.121Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:28:35.121Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:28:35.121Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:15.467Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:29:15.675Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:29:15.675Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:15.675Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:29:15.675Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:15.675Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:29:15.676Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:29:15.676Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:15.676Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:29:15.676Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:29:15.677Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:20.714Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:29:20.935Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:29:20.935Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:20.935Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:29:20.935Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:20.936Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:29:20.936Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:29:20.936Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:20.937Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:29:20.937Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:29:20.938Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:21.568Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:29:21.853Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:29:21.853Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:21.853Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:29:21.853Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:21.853Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:29:21.854Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:29:21.854Z] : [react-plugin]: 
+[info] [2024-12-20T07:29:21.854Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:29:21.854Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:29:21.854Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:12.528Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:31:12.778Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:31:12.779Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:12.779Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:31:12.779Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:12.779Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:31:12.779Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:31:12.780Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:12.780Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:31:12.780Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:31:12.780Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:16.409Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:31:16.591Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:31:16.591Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:16.591Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:31:16.591Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:16.592Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:31:16.592Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:31:16.592Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:16.593Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:31:16.593Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:31:16.594Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:27.031Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:31:27.202Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:31:27.202Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:27.202Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:31:27.202Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:27.203Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:31:27.203Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:31:27.203Z] : [react-plugin]: 
+[info] [2024-12-20T07:31:27.204Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:31:27.204Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:31:27.204Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:30.565Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:33:30.781Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:33:30.781Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:30.782Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:33:30.782Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:30.782Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:33:30.782Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:33:30.783Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:30.783Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:33:30.783Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:33:30.784Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:31.973Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:33:32.087Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:33:32.089Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:32.089Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:33:32.090Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:32.090Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:33:32.091Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:33:32.091Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:32.092Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:33:32.092Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:33:32.092Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:42.737Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:33:42.882Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:33:42.882Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:42.882Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:33:42.883Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:42.883Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:33:42.883Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:33:42.884Z] : [react-plugin]: 
+[info] [2024-12-20T07:33:42.884Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:33:42.885Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:33:42.885Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:08.608Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:34:08.755Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:34:08.756Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:08.756Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:34:08.756Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:08.756Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:34:08.757Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:34:08.757Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:08.758Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:34:08.758Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:34:08.759Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:19.037Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:34:19.189Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:34:19.190Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:19.190Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:34:19.190Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:19.191Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:34:19.191Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:34:19.191Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:19.192Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:34:19.192Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:34:19.193Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:33.738Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:34:33.876Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:34:33.877Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:33.877Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:34:33.878Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:33.878Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:34:33.878Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:34:33.879Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:33.879Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:34:33.880Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:34:33.880Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:34.417Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:34:34.501Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:34:34.501Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:34.502Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:34:34.502Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:34.502Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:34:34.503Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:34:34.503Z] : [react-plugin]: 
+[info] [2024-12-20T07:34:34.504Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:34:34.505Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:34:34.505Z] : [react-plugin]: 
+[info] [2024-12-20T07:36:21.811Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:36:22.145Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2024-12-20T07:36:22.145Z] : [react-plugin]: [eslint] 
+src\index.js
+  Line 5:8:  'reportWebVitals' is defined but never used  no-unused-vars
+[info] [2024-12-20T07:36:22.145Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2024-12-20T07:36:22.146Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2024-12-20T07:36:29.413Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:36:29.586Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:36:29.586Z] : [react-plugin]: 
+[info] [2024-12-20T07:36:29.586Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:36:29.586Z] : [react-plugin]: 
+[info] [2024-12-20T07:36:29.587Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:36:29.587Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:36:29.587Z] : [react-plugin]: 
+[info] [2024-12-20T07:36:29.588Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:36:29.588Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:36:29.589Z] : [react-plugin]: 
+[info] [2024-12-20T07:36:30.860Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:36:30.999Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:36:30.999Z] : [react-plugin]: 
+[info] [2024-12-20T07:36:30.999Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:36:30.999Z] : [react-plugin]: 
+[info] [2024-12-20T07:36:30.999Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:36:31.000Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:36:31.000Z] : [react-plugin]: 
+[info] [2024-12-20T07:36:31.000Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:36:31.001Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:36:31.001Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:02.562Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:02.656Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T07:37:02.657Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\index.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (12:6)
+  10 |
+  11 |   </React.StrictMode>
+> 12 |       <App />
+     |       ^
+  13 | );
+  14 | // reportWebVitals();
+  15 |
+    at parser.next (<anonymous>)
+[info] [2024-12-20T07:37:07.896Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:08.100Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:37:08.100Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:08.100Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:37:08.101Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:08.101Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:37:08.101Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:37:08.102Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:08.103Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:37:08.103Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:37:08.103Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:32.300Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:32.409Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:37:32.409Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:32.409Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:37:32.409Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:32.410Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:37:32.410Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:37:32.411Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:32.411Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:37:32.411Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:37:32.412Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:33.303Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:33.416Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:37:33.416Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:33.416Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:37:33.416Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:33.417Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:37:33.417Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:37:33.417Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:33.418Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:37:33.418Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:37:33.419Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:34.466Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:34.571Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:37:34.572Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:34.572Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:37:34.572Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:34.572Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:37:34.573Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:37:34.573Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:34.574Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:37:34.574Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:37:34.574Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:37.701Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:37.854Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:37:37.855Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:37.855Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:37:37.855Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:37.855Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:37:37.856Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:37:37.856Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:37.857Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:37:37.857Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:37:37.858Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:42.400Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:42.550Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:37:42.551Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:42.551Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:37:42.551Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:42.551Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:37:42.552Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:37:42.552Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:42.553Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:37:42.553Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:37:42.554Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:44.848Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:44.926Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:37:44.927Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:44.927Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:37:44.927Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:44.928Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:37:44.929Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:37:44.929Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:44.930Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:37:44.931Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:37:44.931Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:56.722Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:37:56.849Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:37:56.849Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:56.850Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:37:56.850Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:56.850Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:37:56.851Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:37:56.851Z] : [react-plugin]: 
+[info] [2024-12-20T07:37:56.852Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:37:56.852Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:37:56.853Z] : [react-plugin]: 
+[info] [2024-12-20T07:38:26.804Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T07:38:26.972Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T07:38:26.972Z] : [react-plugin]: 
+[info] [2024-12-20T07:38:26.973Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T07:38:26.973Z] : [react-plugin]: 
+[info] [2024-12-20T07:38:26.973Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T07:38:26.974Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T07:38:26.974Z] : [react-plugin]: 
+[info] [2024-12-20T07:38:26.975Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T07:38:26.975Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T07:38:26.976Z] : [react-plugin]: 
