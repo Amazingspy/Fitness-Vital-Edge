@@ -16,7 +16,7 @@ function App() {
       <div className="App">
         <Container fluid className="h-100">
           <Row className="h-100">
-            <Col md={3} className="sidebar">
+            <Col md={3} className="sidebar-container">
               <Sidebar />
             </Col>
 

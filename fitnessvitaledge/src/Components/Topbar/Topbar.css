@@ -1,0 +1,32 @@
+  .welcome-message {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .search-icon {
+    background-color: #fff;
+    color: #aaa;
+  }
+
+  .search-icon:hover{
+    cursor: pointer;
+  }
+  
+  .search-input {
+    border: 1px solid #ddd;
+    border-left: none;
+  }
+  
+  .search-input:focus {
+    box-shadow: none !important;
+  }
+  
+  .profile-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "fitness_vital_edge_function",
+		"stack": "node20",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
