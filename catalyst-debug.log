@@ -7936,3 +7936,2078 @@ Response Headers: {"server":"ZGS","date":"Fri, 20 Dec 2024 14:31:38 GMT","conten
 [info] [2024-12-20T14:31:53.391Z] : [react-plugin]: Note that the development build is not optimized.
 [info] [2024-12-20T14:31:53.391Z] : [react-plugin]: To create a production build, use npm run build.
 [info] [2024-12-20T14:31:53.392Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:31.080Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:34:31.570Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:34:31.570Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:31.570Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:34:31.571Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:31.571Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:34:31.571Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:34:31.572Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:31.572Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:34:31.572Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:34:31.572Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:36.761Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:34:36.982Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:34:36.982Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:36.982Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:34:36.982Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:36.983Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:34:36.983Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:34:36.984Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:36.985Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:34:36.986Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:34:36.986Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:53.171Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:34:53.489Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:34:53.493Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:53.494Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:34:53.494Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:53.495Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:34:53.496Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:34:53.501Z] : [react-plugin]: 
+[info] [2024-12-20T14:34:53.502Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:34:53.503Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:34:53.507Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:00.827Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:35:01.080Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:35:01.080Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:01.081Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:35:01.081Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:01.081Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:35:01.082Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:35:01.082Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:01.083Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:35:01.083Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:35:01.083Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:42.528Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:35:46.014Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:35:46.014Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:46.014Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:35:46.014Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:46.015Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:35:46.015Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:35:46.016Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:46.016Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:35:46.016Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:35:46.017Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:48.748Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:35:48.988Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:35:48.989Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:48.989Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:35:48.989Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:48.989Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:35:48.990Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:35:48.990Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:48.990Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:35:48.991Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:35:48.991Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:50.872Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:35:51.083Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:35:51.083Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:51.083Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:35:51.084Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:51.084Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:35:51.084Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:35:51.085Z] : [react-plugin]: 
+[info] [2024-12-20T14:35:51.085Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:35:51.085Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:35:51.086Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:02.959Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:36:03.237Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:36:03.237Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:03.237Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:36:03.238Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:03.238Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:36:03.238Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:36:03.239Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:03.239Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:36:03.239Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:36:03.240Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:08.850Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:36:09.117Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:36:09.118Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:09.118Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:36:09.118Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:09.118Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:36:09.119Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:36:09.119Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:09.119Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:36:09.120Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:36:09.120Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:12.594Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:36:12.785Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:36:12.785Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:12.785Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:36:12.785Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:12.786Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:36:12.786Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:36:12.786Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:12.787Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:36:12.787Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:36:12.787Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:14.963Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:36:15.131Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:36:15.132Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:15.132Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:36:15.132Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:15.132Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:36:15.133Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:36:15.133Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:15.134Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:36:15.134Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:36:15.134Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:20.650Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:36:20.815Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:36:20.815Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:20.815Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:36:20.816Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:20.816Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:36:20.817Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:36:20.817Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:20.818Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:36:20.818Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:36:20.818Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:23.670Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:36:23.851Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:36:23.852Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:23.852Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:36:23.852Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:23.853Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:36:23.853Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:36:23.854Z] : [react-plugin]: 
+[info] [2024-12-20T14:36:23.854Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:36:23.855Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:36:23.855Z] : [react-plugin]: 
+[info] [2024-12-20T14:40:52.628Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:40:53.024Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:40:53.025Z] : [react-plugin]: Syntax error: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.css Unknown word (64:3)
+  62 | .sidebar-container{
+  63 |   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+> 64 |   ba
+     |   ^
+  65 | }
+[info] [2024-12-20T14:40:54.737Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:40:55.022Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:40:55.022Z] : [react-plugin]: 
+[info] [2024-12-20T14:40:55.022Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:40:55.022Z] : [react-plugin]: 
+[info] [2024-12-20T14:40:55.022Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:40:55.023Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:40:55.023Z] : [react-plugin]: 
+[info] [2024-12-20T14:40:55.023Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:40:55.023Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:40:55.023Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:05.258Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:41:05.429Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:41:05.429Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:05.429Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:41:05.429Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:05.430Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:41:05.430Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:41:05.430Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:05.431Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:41:05.431Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:41:05.432Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:09.537Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:41:09.725Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:41:09.725Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:09.726Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:41:09.726Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:09.726Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:41:09.727Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:41:09.727Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:09.728Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:41:09.728Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:41:09.729Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:10.383Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:41:10.632Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:41:10.633Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:10.633Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:41:10.633Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:10.633Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:41:10.634Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:41:10.634Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:10.634Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:41:10.634Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:41:10.634Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:26.513Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:41:26.678Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:41:26.678Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:26.678Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:41:26.679Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:26.679Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:41:26.679Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:41:26.680Z] : [react-plugin]: 
+[info] [2024-12-20T14:41:26.680Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:41:26.681Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:41:26.681Z] : [react-plugin]: 
+[info] [2024-12-20T14:54:56.024Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:54:56.497Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:54:56.497Z] : [react-plugin]: 
+[info] [2024-12-20T14:54:56.497Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:54:56.497Z] : [react-plugin]: 
+[info] [2024-12-20T14:54:56.498Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:54:56.498Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:54:56.498Z] : [react-plugin]: 
+[info] [2024-12-20T14:54:56.498Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:54:56.498Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:54:56.499Z] : [react-plugin]: 
+[info] [2024-12-20T14:54:59.091Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:54:59.319Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:54:59.319Z] : [react-plugin]: 
+[info] [2024-12-20T14:54:59.320Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:54:59.320Z] : [react-plugin]: 
+[info] [2024-12-20T14:54:59.320Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:54:59.320Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:54:59.321Z] : [react-plugin]: 
+[info] [2024-12-20T14:54:59.321Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:54:59.321Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:54:59.321Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:04.825Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:55:05.117Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:55:05.117Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:05.117Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:55:05.117Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:05.117Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:55:05.117Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:55:05.118Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:05.118Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:55:05.118Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:55:05.118Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:35.653Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:55:35.992Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:55:35.993Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:35.993Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:55:35.993Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:35.993Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:55:35.994Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:55:35.994Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:35.995Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:55:35.995Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:55:35.995Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:46.707Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:55:47.017Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:55:47.018Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar\Topbar.js: Expected corresponding JSX closing tag for <h6>. (8:53)
+   6 |     <div className='Topbar'>
+   7 |       <div className="message">
+>  8 |         <h6 className='Welcome-message'>Welcome Back!</h1>
+     |                                                      ^
+   9 |       </div>
+  10 |     </div>
+  11 |   )
+[info] [2024-12-20T14:55:49.224Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:55:49.482Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:55:49.483Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:49.483Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:55:49.483Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:49.483Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:55:49.484Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:55:49.484Z] : [react-plugin]: 
+[info] [2024-12-20T14:55:49.484Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:55:49.485Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:55:49.485Z] : [react-plugin]: 
+[info] [2024-12-20T14:56:40.287Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:56:40.714Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:56:40.715Z] : [react-plugin]: Module not found: Error: Can't resolve '../../Assets/Profile.png' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[info] [2024-12-20T14:57:42.767Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:57:43.173Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:57:43.174Z] : [react-plugin]: Module not found: Error: Can't resolve '../../Assets/Fitness-Vital-Edge/fitnessvitaledge/src/Assets/Avatar w. photo.png' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[info] [2024-12-20T14:57:46.436Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:57:46.690Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:57:46.690Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-icons/fa' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[info] [2024-12-20T14:57:53.772Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:57:54.092Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:57:54.093Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-icons/fa' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[debug] [2024-12-20T14:57:57.302Z] : > refreshing access token <
+[debug] [2024-12-20T14:57:57.305Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2024-12-20T14:57:58.084Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 20 Dec 2024 14:57:58 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"close","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2024-12-20T14:58:33.573Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:58:33.872Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:58:33.873Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-icons/fa' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[info] [2024-12-20T14:58:54.244Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:58:54.623Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:58:54.624Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-icons/fa' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[info] [2024-12-20T14:58:57.248Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:58:57.517Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:58:57.517Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-icons/fa' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[info] [2024-12-20T14:59:00.725Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:59:01.009Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:59:01.010Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-icons/fa' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[info] [2024-12-20T14:59:37.417Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:59:37.602Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:59:37.603Z] : [react-plugin]: Module not found: Error: Can't resolve 'react-icons/fa' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar'
+[info] [2024-12-20T14:59:38.012Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:59:39.771Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T14:59:39.773Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\node_modules\react-icons\fa\index.js: Unterminated string constant. (4333:98)
+  4331 | };
+  4332 | module.exports.FaWeight = function FaWeight (props) {
+> 4333 |   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M448 64h-25.98C438.44 92.28 448 125.01 448 160c0 105.87-86.13 192-192 192S64 265
+       |                                                                                                   ^
+[info] [2024-12-20T14:59:39.852Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:59:43.009Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:59:43.009Z] : [react-plugin]: 
+[info] [2024-12-20T14:59:43.010Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:59:43.010Z] : [react-plugin]: 
+[info] [2024-12-20T14:59:43.010Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:59:43.010Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:59:43.011Z] : [react-plugin]: 
+[info] [2024-12-20T14:59:43.011Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:59:43.011Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:59:43.012Z] : [react-plugin]: 
+[info] [2024-12-20T14:59:43.048Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T14:59:43.456Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T14:59:43.456Z] : [react-plugin]: 
+[info] [2024-12-20T14:59:43.456Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T14:59:43.457Z] : [react-plugin]: 
+[info] [2024-12-20T14:59:43.457Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T14:59:43.457Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T14:59:43.458Z] : [react-plugin]: 
+[info] [2024-12-20T14:59:43.458Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T14:59:43.458Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T14:59:43.458Z] : [react-plugin]: 
+[info] [2024-12-20T15:01:05.806Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:01:06.132Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:01:06.132Z] : [react-plugin]: 
+[info] [2024-12-20T15:01:06.132Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:01:06.132Z] : [react-plugin]: 
+[info] [2024-12-20T15:01:06.133Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:01:06.133Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:01:06.134Z] : [react-plugin]: 
+[info] [2024-12-20T15:01:06.134Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:01:06.134Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:01:06.135Z] : [react-plugin]: 
+[info] [2024-12-20T15:01:10.420Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:01:10.616Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:01:10.616Z] : [react-plugin]: 
+[info] [2024-12-20T15:01:10.616Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:01:10.617Z] : [react-plugin]: 
+[info] [2024-12-20T15:01:10.617Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:01:10.617Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:01:10.618Z] : [react-plugin]: 
+[info] [2024-12-20T15:01:10.618Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:01:10.619Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:01:10.619Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:07.659Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:09.145Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:09.146Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:09.146Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:09.147Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:09.147Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:09.147Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:09.148Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:09.149Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:09.149Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:09.150Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:13.180Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:13.485Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:13.485Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:13.485Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:13.485Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:13.486Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:13.486Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:13.486Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:13.487Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:13.487Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:13.488Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:16.769Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:17.048Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:17.048Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:17.048Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:17.048Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:17.049Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:17.049Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:17.049Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:17.049Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:17.050Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:17.050Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:20.274Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:20.544Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:20.544Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:20.544Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:20.544Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:20.545Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:20.545Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:20.545Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:20.546Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:20.546Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:20.547Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:24.426Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:24.665Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:24.665Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:24.666Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:24.666Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:24.666Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:24.667Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:24.667Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:24.667Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:24.668Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:24.668Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:27.294Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:27.534Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:27.534Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:27.535Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:27.535Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:27.535Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:27.536Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:27.536Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:27.536Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:27.537Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:27.537Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:29.284Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:29.516Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:29.517Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:29.517Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:29.517Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:29.517Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:29.517Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:29.518Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:29.518Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:29.519Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:29.519Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:30.794Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:31.105Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T15:02:31.106Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar\Topbar.js: JSX attributes must only be assigned a non-empty expression. (16:18)
+  14 |           </Col>
+  15 |
+> 16 |           <Col md={}>
+     |                   ^
+  17 |             <Form>
+  18 |               <InputGroup>
+  19 |                 <InputGroup.Text className="search-icon">
+[info] [2024-12-20T15:02:32.480Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:32.875Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:32.875Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:32.875Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:32.875Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:32.876Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:32.876Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:32.876Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:32.877Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:32.877Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:32.878Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:37.331Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:37.728Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:37.728Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:37.728Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:37.728Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:37.728Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:37.729Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:37.729Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:37.729Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:37.730Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:37.730Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:52.205Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:52.496Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:52.496Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:52.496Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:52.496Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:52.497Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:52.497Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:52.498Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:52.498Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:52.498Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:52.498Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:53.591Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:53.938Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:53.938Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:53.938Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:53.939Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:53.939Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:53.939Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:53.940Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:53.940Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:53.940Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:53.941Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:58.513Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:02:58.670Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:02:58.670Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:58.671Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:02:58.671Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:58.671Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:02:58.672Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:02:58.672Z] : [react-plugin]: 
+[info] [2024-12-20T15:02:58.672Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:02:58.673Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:02:58.673Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:19.804Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:03:20.070Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:03:20.070Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:20.070Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:03:20.070Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:20.071Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:03:20.071Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:03:20.072Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:20.072Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:03:20.072Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:03:20.073Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:32.585Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:03:32.803Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:03:32.803Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:32.803Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:03:32.803Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:32.803Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:03:32.804Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:03:32.804Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:32.804Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:03:32.805Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:03:32.805Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:37.145Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:03:37.356Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:03:37.356Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:37.357Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:03:37.357Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:37.357Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:03:37.358Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:03:37.358Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:37.359Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:03:37.359Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:03:37.359Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:49.447Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:03:49.730Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:03:49.731Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:49.731Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:03:49.731Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:49.731Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:03:49.732Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:03:49.732Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:49.732Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:03:49.732Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:03:49.733Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:59.555Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:03:59.914Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:03:59.915Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:59.915Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:03:59.916Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:59.916Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:03:59.916Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:03:59.917Z] : [react-plugin]: 
+[info] [2024-12-20T15:03:59.917Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:03:59.918Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:03:59.918Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:04.623Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:04:04.828Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:04:04.829Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:04.829Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:04:04.829Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:04.829Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:04:04.830Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:04:04.830Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:04.832Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:04:04.832Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:04:04.833Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:11.152Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:04:11.353Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:04:11.353Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:11.353Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:04:11.354Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:11.354Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:04:11.354Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:04:11.355Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:11.355Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:04:11.356Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:04:11.356Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:16.342Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:04:16.552Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:04:16.553Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:16.553Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:04:16.553Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:16.554Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:04:16.554Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:04:16.555Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:16.555Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:04:16.556Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:04:16.556Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:32.624Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:04:32.898Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:04:32.899Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:32.899Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:04:32.899Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:32.899Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:04:32.900Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:04:32.901Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:32.901Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:04:32.902Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:04:32.903Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:38.764Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:04:38.966Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:04:38.967Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:38.967Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:04:38.967Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:38.967Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:04:38.968Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:04:38.968Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:38.969Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:04:38.970Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:04:38.970Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:43.863Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:04:44.038Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:04:44.038Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:44.039Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:04:44.039Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:44.039Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:04:44.040Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:04:44.040Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:44.041Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:04:44.041Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:04:44.042Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:51.883Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:04:52.121Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:04:52.121Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:52.122Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:04:52.122Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:52.122Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:04:52.122Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:04:52.123Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:52.123Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:04:52.124Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:04:52.124Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:57.064Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:04:57.253Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:04:57.253Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:57.253Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:04:57.253Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:57.253Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:04:57.254Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:04:57.254Z] : [react-plugin]: 
+[info] [2024-12-20T15:04:57.255Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:04:57.255Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:04:57.256Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:09.595Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:05:09.859Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T15:05:09.860Z] : [react-plugin]: Syntax error: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar\Topbar.css Unknown word (19:5)
+  17 |   .search-input:focus {
+  18 |     box-shadow: none;
+> 19 |     bor
+     |     ^
+  20 |   }
+  21 | 
+[info] [2024-12-20T15:05:13.700Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:05:13.928Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:05:13.929Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:13.929Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:05:13.929Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:13.929Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:05:13.930Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:05:13.930Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:13.931Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:05:13.931Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:05:13.931Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:25.695Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:05:25.907Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:05:25.907Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:25.907Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:05:25.908Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:25.908Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:05:25.908Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:05:25.909Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:25.910Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:05:25.910Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:05:25.911Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:42.525Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:05:42.757Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:05:42.758Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:42.758Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:05:42.758Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:42.759Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:05:42.759Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:05:42.759Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:42.760Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:05:42.761Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:05:42.761Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:50.660Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:05:50.906Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T15:05:50.907Z] : [react-plugin]: Syntax error: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar\Topbar.css Unknown word (19:5)
+  17 |   .search-input:focus {
+  18 |     box-shadow: none !important;
+> 19 |     bor
+     |     ^
+  20 |   }
+  21 | 
+[info] [2024-12-20T15:05:53.718Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:05:53.954Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:05:53.954Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:53.955Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:05:53.955Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:53.955Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:05:53.956Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:05:53.956Z] : [react-plugin]: 
+[info] [2024-12-20T15:05:53.956Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:05:53.957Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:05:53.957Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:02.721Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:06:02.937Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:06:02.937Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:02.938Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:06:02.938Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:02.938Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:06:02.939Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:06:02.939Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:02.940Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:06:02.941Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:06:02.941Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:07.411Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:06:07.592Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:06:07.593Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:07.593Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:06:07.593Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:07.593Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:06:07.594Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:06:07.594Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:07.594Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:06:07.595Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:06:07.595Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:14.563Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:06:14.837Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:06:14.837Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:14.837Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:06:14.838Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:14.838Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:06:14.838Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:06:14.838Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:14.839Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:06:14.839Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:06:14.839Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:39.718Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:06:39.973Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:06:39.973Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:39.974Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:06:39.974Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:39.974Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:06:39.975Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:06:39.975Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:39.976Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:06:39.976Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:06:39.977Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:45.167Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:06:45.373Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:06:45.373Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:45.374Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:06:45.374Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:45.374Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:06:45.375Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:06:45.375Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:45.376Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:06:45.376Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:06:45.376Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:50.913Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:06:51.168Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:06:51.168Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:51.169Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:06:51.169Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:51.169Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:06:51.170Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:06:51.170Z] : [react-plugin]: 
+[info] [2024-12-20T15:06:51.170Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:06:51.171Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:06:51.171Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:05.128Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:07:05.589Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:07:05.589Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:05.589Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:07:05.589Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:05.590Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:07:05.590Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:07:05.590Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:05.591Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:07:05.591Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:07:05.591Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:09.083Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:07:09.292Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:07:09.292Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:09.292Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:07:09.292Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:09.292Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:07:09.293Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:07:09.293Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:09.293Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:07:09.294Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:07:09.294Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:23.584Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:07:23.808Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:07:23.809Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:23.809Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:07:23.809Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:23.809Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:07:23.810Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:07:23.810Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:23.811Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:07:23.811Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:07:23.812Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:31.800Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:07:32.008Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:07:32.008Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:32.008Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:07:32.008Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:32.009Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:07:32.009Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:07:32.010Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:32.010Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:07:32.011Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:07:32.011Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:33.667Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:07:33.917Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:07:33.917Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:33.917Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:07:33.918Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:33.918Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:07:33.918Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:07:33.918Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:33.919Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:07:33.919Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:07:33.920Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:42.553Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:07:42.798Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:07:42.799Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:42.799Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:07:42.799Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:42.800Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:07:42.801Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:07:42.801Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:42.802Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:07:42.802Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:07:42.802Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:48.135Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:07:48.358Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:07:48.359Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:48.359Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:07:48.359Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:48.359Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:07:48.360Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:07:48.360Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:48.361Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:07:48.361Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:07:48.362Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:55.113Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:07:55.443Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:07:55.443Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:55.443Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:07:55.444Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:55.444Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:07:55.444Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:07:55.445Z] : [react-plugin]: 
+[info] [2024-12-20T15:07:55.446Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:07:55.446Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:07:55.447Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:00.596Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:00.782Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:00.783Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:00.783Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:00.783Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:00.784Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:00.784Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:00.785Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:00.785Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:00.786Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:00.786Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:04.284Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:04.505Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:04.505Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:04.505Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:04.505Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:04.505Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:04.506Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:04.506Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:04.506Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:04.506Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:04.507Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:09.653Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:09.856Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:09.856Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:09.856Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:09.857Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:09.857Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:09.857Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:09.858Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:09.858Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:09.859Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:09.859Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:12.936Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:13.175Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:13.176Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:13.176Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:13.176Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:13.176Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:13.176Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:13.176Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:13.177Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:13.177Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:13.177Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:18.174Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:18.487Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:18.487Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:18.488Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:18.488Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:18.488Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:18.489Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:18.489Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:18.489Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:18.490Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:18.490Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:20.835Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:21.045Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:21.046Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:21.046Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:21.046Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:21.046Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:21.047Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:21.047Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:21.048Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:21.048Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:21.048Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:24.751Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:24.954Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:24.954Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:24.955Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:24.955Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:24.955Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:24.956Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:24.956Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:24.957Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:24.957Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:24.957Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:27.688Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:27.911Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:27.912Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:27.912Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:27.912Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:27.912Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:27.913Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:27.913Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:27.914Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:27.914Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:27.915Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:37.152Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:37.359Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:37.359Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:37.359Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:37.360Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:37.360Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:37.361Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:37.362Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:37.364Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:37.365Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:37.365Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:41.310Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:41.498Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:41.498Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:41.498Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:41.498Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:41.498Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:41.499Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:41.499Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:41.500Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:41.500Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:41.501Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:45.229Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:45.479Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:45.480Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:45.480Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:45.480Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:45.481Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:45.481Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:45.482Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:45.482Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:45.483Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:45.483Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:49.063Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:49.287Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:49.287Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:49.287Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:49.287Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:49.287Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:49.288Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:49.288Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:49.289Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:49.289Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:49.289Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:52.134Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:52.332Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:52.332Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:52.333Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:52.333Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:52.333Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:52.334Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:52.334Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:52.335Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:52.335Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:52.335Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:55.006Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:08:55.288Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:08:55.288Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:55.288Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:08:55.288Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:55.288Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:08:55.288Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:08:55.289Z] : [react-plugin]: 
+[info] [2024-12-20T15:08:55.289Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:08:55.289Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:08:55.289Z] : [react-plugin]: 
+[info] [2024-12-20T15:09:37.743Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:09:37.989Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:09:37.989Z] : [react-plugin]: 
+[info] [2024-12-20T15:09:37.989Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:09:37.990Z] : [react-plugin]: 
+[info] [2024-12-20T15:09:37.990Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:09:37.991Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:09:37.991Z] : [react-plugin]: 
+[info] [2024-12-20T15:09:37.992Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:09:37.992Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:09:37.992Z] : [react-plugin]: 
+[info] [2024-12-20T15:09:54.043Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:09:54.266Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:09:54.267Z] : [react-plugin]: 
+[info] [2024-12-20T15:09:54.267Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:09:54.267Z] : [react-plugin]: 
+[info] [2024-12-20T15:09:54.268Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:09:54.268Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:09:54.269Z] : [react-plugin]: 
+[info] [2024-12-20T15:09:54.269Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:09:54.269Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:09:54.270Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:07.866Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:10:08.116Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:10:08.117Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:08.117Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:10:08.117Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:08.118Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:10:08.118Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:10:08.118Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:08.119Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:10:08.119Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:10:08.120Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:14.378Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:10:14.572Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:10:14.573Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:14.573Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:10:14.573Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:14.573Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:10:14.574Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:10:14.574Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:14.575Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:10:14.575Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:10:14.576Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:17.152Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:10:17.346Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:10:17.346Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:17.347Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:10:17.347Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:17.347Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:10:17.348Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:10:17.349Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:17.349Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:10:17.349Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:10:17.350Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:20.394Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:10:20.608Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:10:20.608Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:20.608Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:10:20.609Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:20.609Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:10:20.609Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:10:20.610Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:20.610Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:10:20.611Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:10:20.611Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:24.871Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:10:25.087Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:10:25.087Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:25.088Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:10:25.088Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:25.088Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:10:25.089Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:10:25.089Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:25.089Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:10:25.090Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:10:25.090Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:27.388Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:10:27.587Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:10:27.587Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:27.588Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:10:27.588Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:27.588Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:10:27.589Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:10:27.589Z] : [react-plugin]: 
+[info] [2024-12-20T15:10:27.590Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:10:27.590Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:10:27.591Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:14.555Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:11:14.857Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:11:14.857Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:14.858Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:11:14.858Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:14.858Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:11:14.859Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:11:14.860Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:14.860Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:11:14.861Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:11:14.861Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:16.679Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:11:16.899Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:11:16.899Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:16.899Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:11:16.900Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:16.900Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:11:16.901Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:11:16.901Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:16.901Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:11:16.902Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:11:16.902Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:19.906Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:11:20.098Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:11:20.098Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:20.098Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:11:20.098Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:20.098Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:11:20.099Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:11:20.099Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:20.100Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:11:20.100Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:11:20.100Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:21.224Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:11:21.324Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:11:21.325Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:21.325Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:11:21.325Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:21.326Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:11:21.327Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:11:21.328Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:21.328Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:11:21.329Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:11:21.330Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:23.782Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:11:23.968Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:11:23.968Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:23.969Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:11:23.969Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:23.969Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:11:23.970Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:11:23.970Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:23.971Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:11:23.971Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:11:23.972Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:34.221Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:11:34.407Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:11:34.407Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:34.407Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:11:34.408Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:34.408Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:11:34.409Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:11:34.409Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:34.409Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:11:34.410Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:11:34.410Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:38.040Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:11:38.232Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:11:38.233Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:38.233Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:11:38.233Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:38.234Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:11:38.234Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:11:38.234Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:38.235Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:11:38.235Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:11:38.236Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:55.585Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:11:55.776Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:11:55.777Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:55.777Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:11:55.777Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:55.778Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:11:55.778Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:11:55.779Z] : [react-plugin]: 
+[info] [2024-12-20T15:11:55.779Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:11:55.780Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:11:55.780Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:11.472Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:12:11.658Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:12:11.659Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:11.659Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:12:11.659Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:11.659Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:12:11.660Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:12:11.660Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:11.661Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:12:11.661Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:12:11.662Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:51.223Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:12:51.455Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:12:51.456Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:51.456Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:12:51.456Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:51.456Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:12:51.457Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:12:51.457Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:51.458Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:12:51.458Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:12:51.458Z] : [react-plugin]: 
+[info] [2024-12-20T15:12:54.589Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:12:54.771Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T15:12:54.773Z] : [react-plugin]: Syntax error: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\App.css Unknown word (64:3)
+  62 | 
+  63 | .row{
+> 64 |   pa
+     |   ^
+  65 | }
+[info] [2024-12-20T15:13:04.233Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:13:04.544Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:13:04.544Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:04.544Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:13:04.545Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:04.545Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:13:04.545Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:13:04.546Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:04.547Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:13:04.548Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:13:04.549Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:34.485Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:13:34.752Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:13:34.752Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:34.753Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:13:34.753Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:34.753Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:13:34.754Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:13:34.755Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:34.755Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:13:34.756Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:13:34.756Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:44.102Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:13:44.310Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:13:44.310Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:44.310Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:13:44.310Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:44.311Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:13:44.311Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:13:44.312Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:44.312Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:13:44.313Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:13:44.313Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:47.068Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:13:47.348Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:13:47.348Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:47.348Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:13:47.348Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:47.349Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:13:47.349Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:13:47.349Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:47.349Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:13:47.350Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:13:47.350Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:52.593Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:13:52.977Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:13:52.977Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:52.977Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:13:52.977Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:52.977Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:13:52.977Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:13:52.978Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:52.978Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:13:52.978Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:13:52.978Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:56.022Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:13:56.213Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:13:56.214Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:56.214Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:13:56.214Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:56.214Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:13:56.215Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:13:56.215Z] : [react-plugin]: 
+[info] [2024-12-20T15:13:56.216Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:13:56.216Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:13:56.217Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:07.638Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:14:07.948Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:14:07.948Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:07.949Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:14:07.949Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:07.949Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:14:07.950Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:14:07.950Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:07.951Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:14:07.951Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:14:07.952Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:28.630Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:14:28.834Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:14:28.835Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:28.835Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:14:28.835Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:28.835Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:14:28.836Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:14:28.836Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:28.837Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:14:28.837Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:14:28.837Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:43.912Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:14:44.097Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:14:44.097Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:44.098Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:14:44.098Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:44.098Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:14:44.098Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:14:44.099Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:44.099Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:14:44.100Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:14:44.100Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:47.842Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:14:48.039Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:14:48.039Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:48.039Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:14:48.039Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:48.040Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:14:48.040Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:14:48.040Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:48.041Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:14:48.041Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:14:48.042Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:51.283Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:14:51.570Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:14:51.571Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:51.571Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:14:51.571Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:51.572Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:14:51.573Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:14:51.573Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:51.574Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:14:51.574Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:14:51.575Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:56.909Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:14:57.136Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:14:57.136Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:57.136Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:14:57.137Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:57.137Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:14:57.137Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:14:57.138Z] : [react-plugin]: 
+[info] [2024-12-20T15:14:57.138Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:14:57.139Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:14:57.139Z] : [react-plugin]: 
+[info] [2024-12-20T15:15:04.255Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:15:04.454Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:15:04.454Z] : [react-plugin]: 
+[info] [2024-12-20T15:15:04.454Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:15:04.454Z] : [react-plugin]: 
+[info] [2024-12-20T15:15:04.455Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:15:04.455Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:15:04.455Z] : [react-plugin]: 
+[info] [2024-12-20T15:15:04.456Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:15:04.456Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:15:04.456Z] : [react-plugin]: 
+[info] [2024-12-20T15:15:12.154Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:15:12.350Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:15:12.350Z] : [react-plugin]: 
+[info] [2024-12-20T15:15:12.350Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:15:12.351Z] : [react-plugin]: 
+[info] [2024-12-20T15:15:12.351Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:15:12.351Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:15:12.352Z] : [react-plugin]: 
+[info] [2024-12-20T15:15:12.352Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:15:12.353Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:15:12.353Z] : [react-plugin]: 
+[info] [2024-12-20T15:16:27.205Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:16:27.522Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T15:16:27.523Z] : [react-plugin]: Syntax error: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Sidebar\Sidebar.css Unknown word (13:1)
+  11 | }
+  12 | 
+> 13 | .me
+     | ^
+[info] [2024-12-20T15:16:36.602Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:16:36.886Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:16:36.887Z] : [react-plugin]: 
+[info] [2024-12-20T15:16:36.887Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:16:36.887Z] : [react-plugin]: 
+[info] [2024-12-20T15:16:36.887Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:16:36.887Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:16:36.888Z] : [react-plugin]: 
+[info] [2024-12-20T15:16:36.888Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:16:36.889Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:16:36.889Z] : [react-plugin]: 
+[info] [2024-12-20T15:17:58.928Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:17:59.290Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:17:59.290Z] : [react-plugin]: 
+[info] [2024-12-20T15:17:59.291Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:17:59.291Z] : [react-plugin]: 
+[info] [2024-12-20T15:17:59.291Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:17:59.291Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:17:59.292Z] : [react-plugin]: 
+[info] [2024-12-20T15:17:59.293Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:17:59.294Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:17:59.295Z] : [react-plugin]: 
+[info] [2024-12-20T15:18:10.049Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:18:10.308Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:18:10.308Z] : [react-plugin]: 
+[info] [2024-12-20T15:18:10.308Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:18:10.308Z] : [react-plugin]: 
+[info] [2024-12-20T15:18:10.308Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:18:10.309Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:18:10.309Z] : [react-plugin]: 
+[info] [2024-12-20T15:18:10.310Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:18:10.310Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:18:10.311Z] : [react-plugin]: 
+[info] [2024-12-20T15:18:46.390Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:18:46.599Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T15:18:46.600Z] : [react-plugin]: Syntax error: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar\Topbar.css Unknown word (13:5)
+  11 | 
+  12 |   .search-icon:hover{
+> 13 |     po
+     |     ^
+  14 |   }
+  15 | 
+[info] [2024-12-20T15:18:50.014Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:18:50.281Z] : [react-plugin]: Failed to compile.
+
+[info] [2024-12-20T15:18:50.282Z] : [react-plugin]: Syntax error: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Topbar\Topbar.css Unknown word (13:5)
+  11 | 
+  12 |   .search-icon:hover{
+> 13 |     poin
+     |     ^
+  14 |   }
+  15 | 
+[info] [2024-12-20T15:18:55.435Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:18:55.703Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:18:55.703Z] : [react-plugin]: 
+[info] [2024-12-20T15:18:55.704Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:18:55.704Z] : [react-plugin]: 
+[info] [2024-12-20T15:18:55.704Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:18:55.705Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:18:55.705Z] : [react-plugin]: 
+[info] [2024-12-20T15:18:55.705Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:18:55.706Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:18:55.706Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:00.501Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:22:00.838Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:22:00.838Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:00.838Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:22:00.839Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:00.839Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:22:00.839Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:22:00.840Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:00.840Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:22:00.841Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:22:00.841Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:08.324Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:22:08.524Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:22:08.524Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:08.524Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:22:08.525Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:08.525Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:22:08.525Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:22:08.526Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:08.526Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:22:08.527Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:22:08.527Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:22.214Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:22:22.405Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:22:22.405Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:22.405Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:22:22.405Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:22.406Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:22:22.406Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:22:22.407Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:22.407Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:22:22.408Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:22:22.408Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:25.828Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:22:26.007Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:22:26.007Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:26.007Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:22:26.007Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:26.007Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:22:26.008Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:22:26.009Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:26.009Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:22:26.009Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:22:26.010Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:29.591Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:22:29.797Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:22:29.798Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:29.798Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:22:29.798Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:29.798Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:22:29.799Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:22:29.799Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:29.799Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:22:29.800Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:22:29.800Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:39.084Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:22:39.286Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:22:39.287Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:39.287Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:22:39.287Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:39.287Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:22:39.287Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:22:39.288Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:39.288Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:22:39.289Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:22:39.289Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:44.801Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:22:44.998Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:22:44.998Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:44.998Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:22:44.998Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:44.999Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:22:44.999Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:22:45.000Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:45.000Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:22:45.001Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:22:45.001Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:45.271Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:22:45.520Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:22:45.520Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:45.520Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:22:45.520Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:45.520Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:22:45.521Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:22:45.521Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:45.522Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:22:45.522Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:22:45.522Z] : [react-plugin]: 
+[info] [2024-12-20T15:22:59.997Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:23:00.265Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:23:00.265Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:00.266Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:23:00.266Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:00.266Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:23:00.267Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:23:00.267Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:00.267Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:23:00.268Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:23:00.268Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:55.408Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:23:55.641Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:23:55.641Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:55.641Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:23:55.641Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:55.641Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:23:55.642Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:23:55.642Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:55.643Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:23:55.643Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:23:55.643Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:56.123Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:23:56.275Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:23:56.275Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:56.275Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:23:56.275Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:56.275Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:23:56.276Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:23:56.276Z] : [react-plugin]: 
+[info] [2024-12-20T15:23:56.276Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:23:56.277Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:23:56.277Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:03.323Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:24:03.530Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:24:03.530Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:03.530Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:24:03.530Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:03.530Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:24:03.531Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:24:03.531Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:03.531Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:24:03.532Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:24:03.532Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:03.988Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:24:04.232Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:24:04.233Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:04.233Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:24:04.233Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:04.234Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:24:04.234Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:24:04.234Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:04.235Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:24:04.235Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:24:04.236Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:10.468Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:24:10.676Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:24:10.676Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:10.676Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:24:10.676Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:10.676Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:24:10.677Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:24:10.678Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:10.678Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:24:10.679Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:24:10.679Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:12.965Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:24:13.236Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:24:13.236Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:13.236Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:24:13.236Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:13.237Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:24:13.237Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:24:13.237Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:13.237Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:24:13.238Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:24:13.238Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:17.039Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:24:17.352Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:24:17.360Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:17.365Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:24:17.379Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:17.383Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:24:17.384Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:24:17.386Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:17.388Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:24:17.394Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:24:17.397Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:20.164Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:24:20.343Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:24:20.343Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:20.343Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:24:20.343Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:20.344Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:24:20.344Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:24:20.344Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:20.345Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:24:20.345Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:24:20.345Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:28.145Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:24:28.332Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:24:28.332Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:28.333Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:24:28.333Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:28.333Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:24:28.333Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:24:28.334Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:28.334Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:24:28.334Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:24:28.334Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:44.860Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:24:45.051Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:24:45.052Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:45.052Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:24:45.052Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:45.052Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:24:45.053Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:24:45.053Z] : [react-plugin]: 
+[info] [2024-12-20T15:24:45.054Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:24:45.054Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:24:45.055Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:06.433Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:25:06.641Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:25:06.642Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:06.642Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:25:06.642Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:06.642Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:25:06.642Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:25:06.643Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:06.643Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:25:06.643Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:25:06.644Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:11.723Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:25:11.924Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:25:11.924Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:11.924Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:25:11.924Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:11.925Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:25:11.925Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:25:11.925Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:11.926Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:25:11.927Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:25:11.928Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:18.553Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:25:18.749Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:25:18.749Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:18.750Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:25:18.750Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:18.750Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:25:18.751Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:25:18.751Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:18.751Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:25:18.752Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:25:18.752Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:21.193Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:25:21.446Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:25:21.447Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:21.447Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:25:21.447Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:21.447Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:25:21.447Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:25:21.448Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:21.448Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:25:21.448Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:25:21.448Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:26.904Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:25:27.074Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:25:27.075Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:27.075Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:25:27.075Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:27.075Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:25:27.076Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:25:27.076Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:27.076Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:25:27.077Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:25:27.077Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:30.123Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:25:30.303Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:25:30.303Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:30.304Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:25:30.304Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:30.304Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:25:30.304Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:25:30.305Z] : [react-plugin]: 
+[info] [2024-12-20T15:25:30.305Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:25:30.305Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:25:30.306Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:52.323Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:26:52.686Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:26:52.686Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:52.686Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:26:52.687Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:52.687Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:26:52.687Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:26:52.688Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:52.688Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:26:52.688Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:26:52.689Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:55.594Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:26:55.804Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:26:55.804Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:55.804Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:26:55.805Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:55.805Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:26:55.805Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:26:55.806Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:55.806Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:26:55.807Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:26:55.807Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:57.745Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:26:57.967Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:26:57.967Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:57.967Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:26:57.968Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:57.968Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:26:57.968Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:26:57.968Z] : [react-plugin]: 
+[info] [2024-12-20T15:26:57.969Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:26:57.969Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:26:57.969Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:02.309Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:02.516Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:02.516Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:02.516Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:02.517Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:02.517Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:02.517Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:02.518Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:02.518Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:02.519Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:02.519Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:04.603Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:04.915Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:04.915Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:04.915Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:04.915Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:04.915Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:04.915Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:04.916Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:04.916Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:04.916Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:04.916Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:07.362Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:07.578Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:07.579Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:07.579Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:07.579Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:07.579Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:07.579Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:07.580Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:07.580Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:07.581Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:07.581Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:09.430Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:09.651Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:09.651Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:09.651Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:09.651Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:09.652Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:09.652Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:09.653Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:09.653Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:09.654Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:09.654Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:11.750Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:11.930Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:11.931Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:11.931Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:11.931Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:11.931Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:11.932Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:11.932Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:11.933Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:11.933Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:11.933Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:16.194Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:16.422Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:16.422Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:16.422Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:16.422Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:16.422Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:16.423Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:16.423Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:16.424Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:16.424Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:16.424Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:18.297Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:18.523Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:18.523Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:18.523Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:18.523Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:18.523Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:18.524Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:18.524Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:18.524Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:18.525Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:18.525Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:19.876Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:20.088Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:20.088Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:20.088Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:20.089Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:20.089Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:20.089Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:20.090Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:20.090Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:20.091Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:20.091Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:24.847Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:25.028Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:25.028Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:25.028Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:25.028Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:25.028Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:25.029Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:25.029Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:25.030Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:25.030Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:25.030Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:35.912Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:27:36.112Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:27:36.112Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:36.112Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:27:36.112Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:36.112Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:27:36.113Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:27:36.113Z] : [react-plugin]: 
+[info] [2024-12-20T15:27:36.114Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:27:36.114Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:27:36.114Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:08.776Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:09.307Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:09.307Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:09.307Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:09.308Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:09.308Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:09.308Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:09.309Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:09.309Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:09.309Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:09.310Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:12.209Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:12.409Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:12.409Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:12.409Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:12.410Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:12.410Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:12.410Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:12.411Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:12.411Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:12.412Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:12.412Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:16.016Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:16.285Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:16.285Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:16.285Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:16.285Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:16.285Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:16.286Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:16.286Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:16.286Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:16.286Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:16.286Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:17.705Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:17.912Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:17.913Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:17.913Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:17.913Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:17.913Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:17.914Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:17.914Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:17.914Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:17.915Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:17.915Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:21.002Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:21.150Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:21.150Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:21.150Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:21.151Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:21.151Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:21.153Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:21.155Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:21.156Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:21.156Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:21.156Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:21.631Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:21.720Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:21.720Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:21.721Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:21.721Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:21.721Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:21.722Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:21.722Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:21.723Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:21.723Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:21.724Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:35.395Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:35.586Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:35.586Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:35.587Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:35.587Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:35.587Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:35.588Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:35.588Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:35.588Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:35.589Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:35.589Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:35.914Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:36.013Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:36.013Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:36.014Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:36.014Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:36.014Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:36.015Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:36.015Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:36.015Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:36.016Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:36.016Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:43.361Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:43.557Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:43.557Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:43.558Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:43.558Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:43.558Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:43.558Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:43.559Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:43.559Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:43.560Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:43.560Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:49.829Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:35:50.081Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:35:50.081Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:50.082Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:35:50.082Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:50.082Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:35:50.082Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:35:50.083Z] : [react-plugin]: 
+[info] [2024-12-20T15:35:50.083Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:35:50.083Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:35:50.084Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:00.940Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:36:01.195Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:36:01.195Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:01.196Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:36:01.196Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:01.196Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:36:01.197Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:36:01.198Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:01.198Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:36:01.199Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:36:01.199Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:02.011Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:36:02.205Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:36:02.205Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:02.206Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:36:02.206Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:02.206Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:36:02.207Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:36:02.207Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:02.208Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:36:02.208Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:36:02.208Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:18.795Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:36:19.055Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:36:19.056Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:19.056Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:36:19.056Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:19.059Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:36:19.059Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:36:19.060Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:19.061Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:36:19.061Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:36:19.061Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:21.384Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:36:21.567Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:36:21.568Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:21.568Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:36:21.568Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:21.568Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:36:21.569Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:36:21.569Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:21.569Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:36:21.570Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:36:21.570Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:23.572Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:36:23.766Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:36:23.767Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:23.767Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:36:23.767Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:23.767Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:36:23.768Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:36:23.768Z] : [react-plugin]: 
+[info] [2024-12-20T15:36:23.769Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:36:23.769Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:36:23.769Z] : [react-plugin]: 
+[info] [2024-12-20T15:37:53.398Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:37:53.760Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:37:53.760Z] : [react-plugin]: 
+[info] [2024-12-20T15:37:53.761Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:37:53.761Z] : [react-plugin]: 
+[info] [2024-12-20T15:37:53.761Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:37:53.761Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:37:53.762Z] : [react-plugin]: 
+[info] [2024-12-20T15:37:53.762Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:37:53.762Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:37:53.762Z] : [react-plugin]: 
+[info] [2024-12-20T15:38:01.812Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:38:02.069Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:38:02.070Z] : [react-plugin]: 
+[info] [2024-12-20T15:38:02.070Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:38:02.070Z] : [react-plugin]: 
+[info] [2024-12-20T15:38:02.070Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:38:02.070Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:38:02.070Z] : [react-plugin]: 
+[info] [2024-12-20T15:38:02.070Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:38:02.071Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:38:02.071Z] : [react-plugin]: 
+[info] [2024-12-20T15:38:07.123Z] : [react-plugin]: Compiling...
+[info] [2024-12-20T15:38:07.426Z] : [react-plugin]: Compiled successfully!
+[info] [2024-12-20T15:38:07.426Z] : [react-plugin]: 
+[info] [2024-12-20T15:38:07.426Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2024-12-20T15:38:07.427Z] : [react-plugin]: 
+[info] [2024-12-20T15:38:07.427Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2024-12-20T15:38:07.427Z] : [react-plugin]:   On Your Network:  http://172.25.128.1:3000/app/
+[info] [2024-12-20T15:38:07.427Z] : [react-plugin]: 
+[info] [2024-12-20T15:38:07.428Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2024-12-20T15:38:07.428Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2024-12-20T15:38:07.429Z] : [react-plugin]: 
