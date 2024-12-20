@@ -1,0 +1,11 @@
+.menu .nav-link,
+.sidebar-footer .nav-link {
+  text-decoration: none;
+  color: #3d3d3d;
+
+}
+
+.menu .menu-icon,
+.sidebar-footer .menu-icon {
+  margin-right: 1rem;
+}
