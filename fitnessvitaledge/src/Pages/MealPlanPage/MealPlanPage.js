@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './MealPlanPage.css';
 import { Container, Row, Col, Button, Dropdown, DropdownButton, Form, InputGroup, Card, Modal } from 'react-bootstrap';
-import { FaChevronLeft, FaChevronRight, FaSearch, FaFilter, FaEdit } from 'react-icons/fa';
+import { FaChevronLeft, FaChevronRight, FaSearch, FaFilter, FaEdit, FaPlus } from 'react-icons/fa';
 
 function getCurrentMonthYear(offset = 0) {
   const currentDate = new Date();
@@ -9,72 +9,39 @@ function getCurrentMonthYear(offset = 0) {
   return currentDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
 }
 
+function getcurrentweekofthecurrentmonth(date) {
+  const firstDayOfMonth = new Date(date.getFullYear(), date.getMonth(), 1);
+  const startDay = firstDayOfMonth.getDay();
+  const dayOfMonth = date.getDate();
+
+  return Math.ceil((dayOfMonth + startDay) / 7);
+  // console.log(Math.ceil((dayOfMonth + startDay) / 7))
+}
+
+
+
 function MealPlanPage() {
 
+  const [currentweek, setcurrentweek] = useState(getcurrentweekofthecurrentmonth(new Date()))
+
+  const handlePreviousWeek = () => {
+    setcurrentweek((prev) => (prev > 1 ? prev - 1 : 1));
+  };
+  
+  const handleNextWeek = () => {
+    const totalWeeks = Math.ceil(new Date(new Date().getFullYear(), new Date().getMonth() + 1, 0).getDate() / 7);
+    setcurrentweek((prev) => (prev < totalWeeks ? prev + 1 : totalWeeks));
+  };
+  
+
   const MealData = [
-    {
-      day: 'Sunday',
-      meals: {
-        Breakfast: 'Scrambled Eggs with Spinach & Whole Grain Toast',
-        Lunch: 'Grilled Chicken Wrap with Avocado and Spinach',
-        Snack: 'Greek Yogurt with Mixed Berries and Almonds',
-        Dinner: 'Baked Salmon with Steamed Broccoli and Sweet Potatoes'
-      }
-    },
-    {
-      day: 'Monday',
-      meals: {
-        Breakfast: 'Avocado Toast with Poached Egg',
-        Lunch: 'Quinoa Salad with Roasted Vegetables and Feta',
-        Snack: 'Apple Slices with Peanut Butter',
-        Dinner: 'Grilled Turkey Breast with Steamed Asparagus and Brown Rice'
-      }
-    },
-    {
-      day: 'Tuesday',
-      meals: {
-        Breakfast: 'Blueberry Protein Smoothie',
-        Lunch: 'Greek Salad with Feta and Olives',
-        Snack: 'Hummus with Carrot Sticks',
-        Dinner: 'Baked Sweet Potato with Black Beans and Avocado'
-      }
-    },
-    {
-      day: 'Wednesday',
-      meals: {
-        Breakfast: 'Oatmeal with Almond Butter and Berries',
-        Lunch: 'Veggie Stir-Fry with Tofu and Brown Rice',
-        Snack: 'Almonds and a Banana',
-        Dinner: 'Grilled Shrimp Tacos with Mango Salsa'
-      }
-    },
-    {
-      day: 'Thursday',
-      meals: {
-        Breakfast: 'Greek Yogurt with Granola and Honey',
-        Lunch: 'Baked Chicken Breast with Quinoa and Kale',
-        Snack: 'Cottage Cheese with Pineapple',
-        Dinner: 'Lemon Garlic Tilapia with Roasted Brussels Sprouts'
-      }
-    },
-    {
-      day: 'Friday',
-      meals: {
-        Breakfast: 'Smoothie Bowl with Mixed Fruits and Chia Seeds',
-        Lunch: 'Tuna Salad with Spinach and Chickpeas',
-        Snack: 'Dark Chocolate and Walnuts',
-        Dinner: 'Grilled Chicken with Sweet Potato and Green Beans'
-      }
-    },
-    {
-      day: 'Saturday',
-      meals: {
-        Breakfast: 'Chia Pudding with Strawberries',
-        Lunch: 'Mediterranean Couscous Salad with Grilled Vegetables',
-        Snack: 'Trail Mix with Dried Fruit and Seeds',
-        Dinner: 'Roasted Veggie Bowl with Lentils and Avocado'
-      }
-    }
+    { day: 'Sunday', meals: { Breakfast: '', Lunch: '', Snack: '', Dinner: '' } },
+    { day: 'Monday', meals: { Breakfast: '', Lunch: '', Snack: '', Dinner: '' } },
+    { day: 'Tuesday', meals: { Breakfast: '', Lunch: '', Snack: '', Dinner: '' } },
+    { day: 'Wednesday', meals: { Breakfast: '', Lunch: '', Snack: '', Dinner: '' } },
+    { day: 'Thursday', meals: { Breakfast: '', Lunch: '', Snack: '', Dinner: '' } },
+    { day: 'Friday', meals: { Breakfast: '', Lunch: '', Snack: '', Dinner: '' } },
+    { day: 'Saturday', meals: { Breakfast: '', Lunch: '', Snack: '', Dinner: '' } },
   ];
 
   const [monthOffset, setMonthOffset] = useState(0);
@@ -90,9 +57,9 @@ function MealPlanPage() {
   const handlePreviousMonth = () => setMonthOffset((prev) => prev - 1);
   const handleNextMonth = () => setMonthOffset((prev) => prev + 1);
 
-  const handleEditMeal = (dayIndex, mealType, currentMealName) => {
-    setEditingMeal({ dayIndex, mealType });
-    setMealInput(currentMealName);
+  const handleMealAction = (dayIndex, mealType, currentMealName) => {
+    setEditingMeal({ dayIndex, mealType, isEdit: !!currentMealName });
+    setMealInput(currentMealName || '');
   };
 
   const handleSaveMeal = () => {
@@ -110,6 +77,7 @@ function MealPlanPage() {
     setMealInput('');
   };
 
+ 
   return (
 
     <div>
@@ -126,25 +94,32 @@ function MealPlanPage() {
             <Dropdown.Item onClick={() => setMonthOffset(-1)}>Previous Month</Dropdown.Item>
             <Dropdown.Item onClick={() => setMonthOffset(1)}>Next Month</Dropdown.Item>
           </DropdownButton>
+
+          <div className="week-box">
+            {/* <Button variant="light" onClick={handlePreviousWeek}>
+              <FaChevronLeft />
+            </Button>
+            <Button variant="light" onClick={handleNextWeek}>
+              <FaChevronRight />
+            </Button> */}
+            <div className='currentweek'>Week {currentweek}</div>
+          </div>
         </Container>
       </div>
 
       <Container fluid className="meal-plan-container">
-
-        <div className="header" style={{ gridArea: "header-day" }}>Day</div>
-        <div className="header" style={{ gridArea: "header-breakfast" }}>Breakfast</div>
-        <div className="header" style={{ gridArea: "header-lunch" }}>Lunch</div>
-        <div className="header" style={{ gridArea: "header-snack" }}>Snack</div>
-        <div className="header" style={{ gridArea: "header-dinner" }}>Dinner</div>
+        <div className="header" style={{ gridArea: 'header-day' }}>Day</div>
+        <div className="header" style={{ gridArea: 'header-breakfast' }}>Breakfast</div>
+        <div className="header" style={{ gridArea: 'header-lunch' }}>Lunch</div>
+        <div className="header" style={{ gridArea: 'header-snack' }}>Snack</div>
+        <div className="header" style={{ gridArea: 'header-dinner' }}>Dinner</div>
 
         {mealData.map((dayData, dayIndex) => (
           <React.Fragment key={dayIndex}>
-            {/* Day Name */}
             <div className="day" style={{ gridArea: dayData.day.toLowerCase() }}>
               {dayData.day}
             </div>
 
-            {/* Meals for the Day */}
             {Object.entries(dayData.meals).map(([mealType, mealName], mealIndex) => (
               <div
                 key={mealIndex}
@@ -153,29 +128,39 @@ function MealPlanPage() {
                   gridArea: `${mealType.toLowerCase()}-${dayData.day.toLowerCase()}`,
                 }}
               >
-                <img src="https://via.placeholder.com/60" alt={mealType} />
+                {/* <img src="https://via.placeholder.com/60" alt={mealType} /> */}
                 <p><strong>{mealType}</strong></p>
-                <p>{mealName}</p>
-                <Button
-                  variant="outline-primary"
-                  size="sm"
-                  onClick={() => handleEditMeal(dayIndex, mealType, mealName)}
-                >
-                  Edit
-                </Button>
+                {mealName ? (
+                  <>
+                    <p>{mealName}</p>
+                    <Button
+                      variant="outline-primary"
+                      size="sm"
+                      onClick={() => handleMealAction(dayIndex, mealType, mealName)}
+                    >
+                      <FaEdit /> Edit
+                    </Button>
+                  </>
+                ) : (
+                  <Button
+                    variant="outline-success"
+                    size="sm"
+                    onClick={() => handleMealAction(dayIndex, mealType, '')}
+                  >
+                    <FaPlus /> Add Meal
+                  </Button>
+                )}
               </div>
             ))}
           </React.Fragment>
         ))}
       </Container>
 
-
-
-
-
       <Modal show={editingMeal !== null} onHide={handleCloseModal}>
         <Modal.Header closeButton>
-          <Modal.Title>Edit Meal</Modal.Title>
+          <Modal.Title>
+            {editingMeal?.isEdit ? 'Edit Meal' : 'Add Meal'}
+          </Modal.Title>
         </Modal.Header>
         <Modal.Body>
           <Form.Group controlId="mealInput">
@@ -184,16 +169,14 @@ function MealPlanPage() {
               type="text"
               value={mealInput}
               onChange={(e) => setMealInput(e.target.value)}
-              placeholder="Enter new meal name"
+              placeholder="Enter meal name"
             />
           </Form.Group>
         </Modal.Body>
         <Modal.Footer>
-          <Button variant="secondary" onClick={handleCloseModal}>
-            Cancel
-          </Button>
+          <Button variant="secondary" onClick={handleCloseModal}>Cancel</Button>
           <Button variant="primary" onClick={handleSaveMeal}>
-            Save Changes
+            {editingMeal?.isEdit ? 'Save Changes' : 'Add Meal'}
           </Button>
         </Modal.Footer>
       </Modal>

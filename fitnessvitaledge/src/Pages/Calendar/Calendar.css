@@ -1,0 +1,20 @@
+.calendar-container {
+    padding: 10px;
+    border-radius: 8px;
+    background: #fff;
+  }
+  
+  .fc {
+    height: 80vh;
+    overflow-y: auto;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .modal-body {
+    padding: 20px;
+  }
+  

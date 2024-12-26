@@ -9,6 +9,7 @@ import HomePage from './Pages/HomePage/HomePage';
 import MealPlan from './Pages/MealPlanPage/MealPlanPage';
 import Progress from './Pages/ProgressPage/ProgressPage';
 import Workout from './Pages/WorkoutsPage/WorkoutsPage';
+import CalendarPage from './Pages/Calendar/Calendar'
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
                 <Routes>
                   <Route path="/" element={<HomePage />} />
                   <Route path="/mealplan" element={<MealPlan />} />
+                  <Route path="/mealplan/calendar" element={<CalendarPage />} />
                   <Route path="/progress" element={<Progress />} />
                   <Route path="/workout" element={<Workout />} />
                   <Route path="*" element={<h1>404 - Page Not Found</h1>} />
