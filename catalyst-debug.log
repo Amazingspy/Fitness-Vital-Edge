@@ -29730,3 +29730,18 @@ src\Pages\MealPlanPage\MealPlanPage.js
 Search for the keywords to learn more about each warning.
 [info] [2024-12-26T15:08:36.166Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
 
+[info] [2024-12-26T15:11:46.160Z] : Shutting down server
+[info] [2024-12-26T15:11:46.388Z] : 
+[info] [2024-12-26T15:11:46.389Z] : √ Shutdown complete
+[debug] [2024-12-26T15:11:46.390Z] : NO ERRORS REGISTERED
+[debug] [2024-12-26T15:11:46.391Z] : EXEC ENDED with event: serve, message: success
+[debug] [2024-12-26T15:11:46.391Z] : TOTAL DURATION OF COMMAND EXEC : 20827229
+[debug] [2024-12-26T15:11:46.430Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2024-12-26T15:11:48.960Z] : <<<< HTTP RESPONSE : 400
+Response Headers: {"server":"ZGS","date":"Thu, 26 Dec 2024 15:11:49 GMT","content-type":"application/json;charset=ISO-8859-1","content-length":"147","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2024-12-26T15:11:48.963Z] : Response Body : {"status":"failure","data":{"error_code":"INPUT_SIZE_MORE_THAN_ALLOWED","message":"Please check if the size of the input is in the correct range"}}
+
+[debug] [2024-12-26T15:11:48.967Z] : Unable to send debug log to server: HTTP Error: 400, Please check if the size of the input is in the correct range
