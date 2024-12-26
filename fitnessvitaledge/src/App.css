@@ -20,7 +20,7 @@
   }
   
   .topbar {
-    padding: 14px;
+    padding: 10px;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 0px, rgba(0, 0, 0, 0.24) 0px 0.5px 0px;
     display: flex;
     align-items: center;
@@ -36,17 +36,8 @@
   
   .page-content {
     flex-grow: 1;
-    padding: 1rem;
   }
   
-  .sidebar-footer {
-    margin-top: auto;
-    display: flex;
-    justify-content: flex-start;
-    /* border-top: 1px solid #ccc; */
-    width: 100%;
-}
-
   .col-md-3 {
     flex: 0 0 auto;
     width: 18% !important;
@@ -58,11 +49,8 @@
 }
 
 
-.sidebar-container{
-  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
-}
-
 .row>* {
   padding-right: 0 !important;
   padding-left: 0 !important;
 }
+

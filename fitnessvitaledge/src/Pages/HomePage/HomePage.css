@@ -1,0 +1,162 @@
+.dashboard {
+    background-color: #f9fafc;
+    padding: 1rem;
+    overflow: hidden;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    margin: 1px;
+}
+
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: auto auto auto;
+    grid-template-areas: 
+      "cards1 cards2 cards3 cards4 schedule schedule"
+      "activity activity activity activity schedule schedule"
+      "activity activity activity activity schedule schedule"
+      "activity activity activity activity schedule schedule"
+      "progress1 progress1 progress1 progress2 progress2 progress2"
+      "progress1 progress1 progress1 progress2 progress2 progress2"
+      "progress1 progress1 progress1 progress2 progress2 progress2";
+    gap: 1rem;
+    flex-grow: 1;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #ccc transparent;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Dashboard Items Styling */
+.stats-cards1,
+.stats-cards2,
+.stats-cards3,
+.stats-cards4,
+.activity,
+.schedule,
+.progress1,
+.progress2 {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-size: 0.9rem;
+    overflow: hidden;
+}
+
+/* Grid Areas */
+.stats-cards1 {
+    grid-area: cards1;
+}
+
+.stats-cards2 {
+    grid-area: cards2;
+}
+
+.stats-cards3 {
+    grid-area: cards3;
+}
+
+.stats-cards4 {
+    grid-area: cards4;
+}
+
+.activity {
+    grid-area: activity;
+}
+
+.schedule {
+    grid-area: schedule;
+}
+
+.progress1 {
+    grid-area: progress1;
+}
+
+.progress2 {
+    grid-area: progress2;
+}
+
+/* Typography */
+h6 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+p {
+    font-size: 0.85rem;
+    color: #666;
+    margin: 0;
+}
+
+/* Scrollbar Styling (For Better UX) */
+.dashboard-grid::-webkit-scrollbar {
+    width: 6px;
+}
+
+.dashboard-grid::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.dashboard-grid::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 10px;
+}
+
+/* Medium Devices (Tablets, iPads) */
+@media (max-width: 992px) {
+    .dashboard-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-areas: 
+            "cards1 cards2"
+            "cards3 cards4"
+            "activity activity"
+            "schedule schedule"
+            "progress1 progress2";
+    }
+}
+
+/* Small Devices (Mobile Phones) */
+@media (max-width: 576px) {
+    .dashboard {
+        height: 100%;
+        overflow-y: auto;
+    }
+
+    .dashboard-grid {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "cards1"
+            "cards2"
+            "cards3"
+            "cards4"
+            "activity"
+            "schedule"
+            "progress1"
+            "progress2";
+        gap: 0.75rem;
+    }
+
+    .stats-cards1,
+    .stats-cards2,
+    .stats-cards3,
+    .stats-cards4,
+    .activity,
+    .schedule,
+    .progress1,
+    .progress2 {
+        padding: 1rem;
+        font-size: 0.85rem;
+    }
+
+    h6 {
+        font-size: 0.9rem;
+    }
+
+    p {
+        font-size: 0.8rem;
+    }
+}

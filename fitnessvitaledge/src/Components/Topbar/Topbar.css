@@ -1,32 +1,129 @@
-  .welcome-message {
-    margin: 0;
-    font-size: 1.2rem;
-    color: #333;
-  }
-  
-  .search-icon {
-    background-color: #fff;
-    color: #aaa;
+/* Topbar Styles */
+.topbar {
+  padding: 0.5rem 1rem;
+  /* border-bottom: 1px solid #e0e0e0; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Welcome Message */
+.welcome-message {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #333;
+}
+
+/* Search Bar */
+.search-icon {
+  background-color: #fff;
+  color: #aaa;
+  border-right: none;
+}
+
+.search-icon:hover {
+  cursor: pointer;
+}
+
+.search-input {
+  border: 1px solid #ddd;
+  border-left: none;
+  font-size: 0.95rem;
+}
+
+.search-input:focus {
+  box-shadow: none !important;
+  border-color: #007bff;
+}
+
+/* Profile Image */
+.profile-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+/* Menu Button (Mobile Only) */
+.menu-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: #333;
+  cursor: pointer;
+  display: none;
+}
+
+/* Offcanvas Sidebar */
+.offcanvas .menu-icon {
+  margin-right: 0.5rem;
+  width: 20px;
+  height: 20px;
+}
+
+.offcanvas .nav-link {
+  color: #333;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.offcanvas .nav-link:hover {
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
+
+/* Mobile Styles */
+@media (max-width: 992px) {
+  .topbar {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
   }
 
-  .search-icon:hover{
-    cursor: pointer;
+  .menu-btn {
+    display: block; /* Show menu button */
+    margin-right: 0.5rem;
   }
-  
+
+  .search-bar {
+    flex: 1;
+    margin: 0 0.5rem;
+  }
+
   .search-input {
-    border: 1px solid #ddd;
-    border-left: none;
+    font-size: 0.85rem;
+    width: 100%;
   }
-  
-  .search-input:focus {
-    box-shadow: none !important;
-  }
-  
+
   .profile-img {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    object-fit: cover;
-    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    margin-left: auto;
   }
-  
+
+  .sidebar-container {
+    display: none; 
+  }
+
+  .welcome{
+    display: none;
+  }
+
+  .form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    /* font-size: 1rem; */
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--bs-body-color);
+    appearance: none;
+    background-color: var(--bs-body-bg);
+    background-clip: padding-box;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+}
