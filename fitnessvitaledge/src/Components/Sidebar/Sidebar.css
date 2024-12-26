@@ -6,7 +6,7 @@
   justify-content: flex-start;
   padding: 1rem;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   box-sizing: border-box;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   border-right: 1px solid #cdcdcd;

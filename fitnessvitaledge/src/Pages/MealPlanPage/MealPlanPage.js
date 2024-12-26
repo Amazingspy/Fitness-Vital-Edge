@@ -12,71 +12,71 @@ function getCurrentMonthYear(offset = 0) {
 function MealPlanPage() {
 
   const MealData = [
-    { 
-      day: 'Sunday', 
-      meals: { 
-        Breakfast: 'Scrambled Eggs with Spinach & Whole Grain Toast', 
-        Lunch: 'Grilled Chicken Wrap with Avocado and Spinach', 
-        Snack: 'Greek Yogurt with Mixed Berries and Almonds', 
-        Dinner: 'Baked Salmon with Steamed Broccoli and Sweet Potatoes' 
-      } 
+    {
+      day: 'Sunday',
+      meals: {
+        Breakfast: 'Scrambled Eggs with Spinach & Whole Grain Toast',
+        Lunch: 'Grilled Chicken Wrap with Avocado and Spinach',
+        Snack: 'Greek Yogurt with Mixed Berries and Almonds',
+        Dinner: 'Baked Salmon with Steamed Broccoli and Sweet Potatoes'
+      }
     },
-    { 
-      day: 'Monday', 
-      meals: { 
-        Breakfast: 'Avocado Toast with Poached Egg', 
-        Lunch: 'Quinoa Salad with Roasted Vegetables and Feta', 
-        Snack: 'Apple Slices with Peanut Butter', 
-        Dinner: 'Grilled Turkey Breast with Steamed Asparagus and Brown Rice' 
-      } 
+    {
+      day: 'Monday',
+      meals: {
+        Breakfast: 'Avocado Toast with Poached Egg',
+        Lunch: 'Quinoa Salad with Roasted Vegetables and Feta',
+        Snack: 'Apple Slices with Peanut Butter',
+        Dinner: 'Grilled Turkey Breast with Steamed Asparagus and Brown Rice'
+      }
     },
-    { 
-      day: 'Tuesday', 
-      meals: { 
-        Breakfast: 'Blueberry Protein Smoothie', 
-        Lunch: 'Greek Salad with Feta and Olives', 
-        Snack: 'Hummus with Carrot Sticks', 
-        Dinner: 'Baked Sweet Potato with Black Beans and Avocado' 
-      } 
+    {
+      day: 'Tuesday',
+      meals: {
+        Breakfast: 'Blueberry Protein Smoothie',
+        Lunch: 'Greek Salad with Feta and Olives',
+        Snack: 'Hummus with Carrot Sticks',
+        Dinner: 'Baked Sweet Potato with Black Beans and Avocado'
+      }
     },
-    { 
-      day: 'Wednesday', 
-      meals: { 
-        Breakfast: 'Oatmeal with Almond Butter and Berries', 
-        Lunch: 'Veggie Stir-Fry with Tofu and Brown Rice', 
-        Snack: 'Almonds and a Banana', 
-        Dinner: 'Grilled Shrimp Tacos with Mango Salsa' 
-      } 
+    {
+      day: 'Wednesday',
+      meals: {
+        Breakfast: 'Oatmeal with Almond Butter and Berries',
+        Lunch: 'Veggie Stir-Fry with Tofu and Brown Rice',
+        Snack: 'Almonds and a Banana',
+        Dinner: 'Grilled Shrimp Tacos with Mango Salsa'
+      }
     },
-    { 
-      day: 'Thursday', 
-      meals: { 
-        Breakfast: 'Greek Yogurt with Granola and Honey', 
-        Lunch: 'Baked Chicken Breast with Quinoa and Kale', 
-        Snack: 'Cottage Cheese with Pineapple', 
-        Dinner: 'Lemon Garlic Tilapia with Roasted Brussels Sprouts' 
-      } 
+    {
+      day: 'Thursday',
+      meals: {
+        Breakfast: 'Greek Yogurt with Granola and Honey',
+        Lunch: 'Baked Chicken Breast with Quinoa and Kale',
+        Snack: 'Cottage Cheese with Pineapple',
+        Dinner: 'Lemon Garlic Tilapia with Roasted Brussels Sprouts'
+      }
     },
-    { 
-      day: 'Friday', 
-      meals: { 
-        Breakfast: 'Smoothie Bowl with Mixed Fruits and Chia Seeds', 
-        Lunch: 'Tuna Salad with Spinach and Chickpeas', 
-        Snack: 'Dark Chocolate and Walnuts', 
-        Dinner: 'Grilled Chicken with Sweet Potato and Green Beans' 
-      } 
+    {
+      day: 'Friday',
+      meals: {
+        Breakfast: 'Smoothie Bowl with Mixed Fruits and Chia Seeds',
+        Lunch: 'Tuna Salad with Spinach and Chickpeas',
+        Snack: 'Dark Chocolate and Walnuts',
+        Dinner: 'Grilled Chicken with Sweet Potato and Green Beans'
+      }
     },
-    { 
-      day: 'Saturday', 
-      meals: { 
-        Breakfast: 'Chia Pudding with Strawberries', 
-        Lunch: 'Mediterranean Couscous Salad with Grilled Vegetables', 
-        Snack: 'Trail Mix with Dried Fruit and Seeds', 
-        Dinner: 'Roasted Veggie Bowl with Lentils and Avocado' 
-      } 
+    {
+      day: 'Saturday',
+      meals: {
+        Breakfast: 'Chia Pudding with Strawberries',
+        Lunch: 'Mediterranean Couscous Salad with Grilled Vegetables',
+        Snack: 'Trail Mix with Dried Fruit and Seeds',
+        Dinner: 'Roasted Veggie Bowl with Lentils and Avocado'
+      }
     }
   ];
-  
+
   const [monthOffset, setMonthOffset] = useState(0);
   const [currentMonthYear, setCurrentMonthYear] = useState('');
   const [mealData, setMealData] = useState(MealData);

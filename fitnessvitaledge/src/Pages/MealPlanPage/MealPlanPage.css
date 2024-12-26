@@ -1,84 +1,107 @@
 /* Meal Plan Grid Layout */
 .meal-plan-container {
-    display: grid;
-    grid-template-columns: 1fr repeat(4, 2fr); /* Day + 4 Meal Types */
-    grid-template-rows: auto; /* Adjust rows based on content */
-    grid-template-areas:
-      "header-day header-breakfast header-lunch header-snack header-dinner"
-      "sunday breakfast-sunday lunch-sunday snack-sunday dinner-sunday"
-      "monday breakfast-monday lunch-monday snack-monday dinner-monday"
-      "tuesday breakfast-tuesday lunch-tuesday snack-tuesday dinner-tuesday"
-      "wednesday breakfast-wednesday lunch-wednesday snack-wednesday dinner-wednesday"
-      "thursday breakfast-thursday lunch-thursday snack-thursday dinner-thursday"
-      "friday breakfast-friday lunch-friday snack-friday dinner-friday"
-      "saturday breakfast-saturday lunch-saturday snack-saturday dinner-saturday";
-    gap: 10px;
-    margin-top: 20px;
-  }
-  
-  /* Header Styles */
-  .header {
-    text-align: center;
-    font-weight: bold;
-    padding: 10px;
-    background-color: #f8f9fa;
-    border: 1px solid #e0e4e8;
-  }
+  display: grid;
+  grid-template-columns: 1fr repeat(4, 2fr);
+  /* Day + 4 Meal Types */
+  grid-template-rows: auto;
+  /* Adjust rows based on content */
+  grid-template-areas:
+    "header-day header-breakfast header-lunch header-snack header-dinner"
+    "sunday breakfast-sunday lunch-sunday snack-sunday dinner-sunday"
+    "monday breakfast-monday lunch-monday snack-monday dinner-monday"
+    "tuesday breakfast-tuesday lunch-tuesday snack-tuesday dinner-tuesday"
+    "wednesday breakfast-wednesday lunch-wednesday snack-wednesday dinner-wednesday"
+    "thursday breakfast-thursday lunch-thursday snack-thursday dinner-thursday"
+    "friday breakfast-friday lunch-friday snack-friday dinner-friday"
+    "saturday breakfast-saturday lunch-saturday snack-saturday dinner-saturday";
+  gap: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  overflow-y: auto;
+  height: 85vh;
+}
 
-  .meal-plan-header {
-    margin: 10px;
-    grid-area: header;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    background-color: #f8f9fa;
-    padding: 5px 5px;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
-  
-  /* Day Column */
-  .day {
-    grid-area: day;
-    text-align: center;
-    font-weight: bold;
-    background-color: #f8f9fa;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid #e0e4e8;
-    padding: 10px;
-  }
-  
-  /* Meal Cell Styles */
-  .meal-cell {
-    background-color: #fff;
-    text-align: center;
-    padding: 10px;
-    border: 1px solid #e0e4e8;
-    border-radius: 8px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .meal-cell img {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    margin-bottom: 8px;
-  }
-  
-  .meal-cell p {
-    margin: 5px 0;
-    font-size: 0.9rem;
-  }
-  
-  .meal-cell button {
-    margin-top: 5px;
-    font-size: 0.8rem;
-    padding: 4px 8px;
-  }
-  
+.meal-plan-container::-webkit-scrollbar {
+  width: 5px;
+}
+
+.meal-plan-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.meal-plan-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+.meal-plan-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+/* Header Styles */
+.header {
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border: 1px solid #e0e4e8;
+}
+
+.meal-plan-header {
+  margin: 10px;
+  grid-area: header;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #f8f9fa;
+  padding: 5px 5px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Day Column */
+.day {
+  grid-area: day;
+  text-align: center;
+  font-weight: bold;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #e0e4e8;
+  padding: 10px;
+}
+
+/* Meal Cell Styles */
+.meal-cell {
+  background-color: #fff;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #e0e4e8;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.meal-cell img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-bottom: 8px;
+}
+
+.meal-cell p {
+  margin: 5px 0;
+  font-size: 0.9rem;
+}
+
+.meal-cell button {
+  margin-top: 5px;
+  font-size: 0.8rem;
+  padding: 4px 8px;
+}
