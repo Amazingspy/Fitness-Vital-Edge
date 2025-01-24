@@ -21,7 +21,7 @@
   height: 85vh;
 }
 
-.meal-plan-container::-webkit-scrollbar {
+/* .meal-plan-container::-webkit-scrollbar {
   width: 5px;
 }
 
@@ -39,8 +39,11 @@
   background: #555;
 }
 
+.meal-plan-container::-webkit-scrollbar:horizontal {
+  width: 5px;
+} */
 
-/* Header Styles */
+
 .header {
   text-align: center;
   font-weight: bold;
@@ -119,4 +122,45 @@
 .currentweek {
   font-size: 16px;
   font-weight:500;
+}
+
+/* 
+@media screen and (max-width: 1920px) {
+  .meal-plan-container {
+    max-height: 80vh;
+
+  }
+
+  .meal-cell img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .meal-cell button {
+    font-size: 0.85rem;
+    padding: 5px 8px;
+  }
+} */
+
+
+@media screen and (max-width: 768px) {
+  .meal-plan-container {
+    overflow-x: auto;
+    font-size: 0.8rem;
+    padding: 5px;
+  }
+
+  .meal-plan-header {
+    justify-content: center;
+  }
+
+  .meal-cell img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .meal-cell button {
+    font-size: 0.7rem;
+    padding: 3px 6px;
+  }
 }

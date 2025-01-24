@@ -1,0 +1,181 @@
+.workout-training-page {
+    display: grid;
+    grid-template-areas:
+        'video video timer timer'
+        'video video scheduler scheduler'
+        'video video scheduler scheduler'
+        'footer footer footer footer';
+    grid-template-columns: 2fr 2fr 1fr 1fr;
+    grid-template-rows: auto auto auto auto;
+    gap: 1rem;
+    padding: 1rem;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: #f9fafc;
+}
+
+
+.video-container,
+.timer-container,
+.scheduler-container,
+.footer-container {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.video-container {
+    grid-area: video;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-container h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+}
+
+.timer-container {
+    grid-area: timer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.segmented-timer {
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    position: relative;
+  }
+
+  .segmented-timer svg {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .segmented-timer circle {
+    transition: stroke-dashoffset 0.5s linear;
+  }
+  
+  
+  .timer-controls {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .timer-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+.timer-container h2 {
+    font-size: 1.2rem;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+
+.scheduler-container {
+    grid-area: scheduler;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.scheduler-container h2 {
+    font-size: 1.2rem;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+
+.footer-container {
+    grid-area: footer;
+    background: #fdfdfd;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .action-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+@media (max-width: 768px) {
+    .workout-training-page {
+        grid-template-areas:
+            'video'
+            'timer'
+            'scheduler'
+            'footer';
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+    }
+}
+
+
+.timer-settings {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .timer-settings label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #444;
+  }
+  
+  .timer-settings input {
+    width: 80px;
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    text-align: center;
+    transition: border 0.3s ease;
+  }
+  
+  .timer-settings input:focus {
+    outline: none;
+  }
+  
+  .timer-settings input::-webkit-inner-spin-button,
+  .timer-settings input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  
+  .timer-settings label span {
+    font-weight: 600;
+    color: #222;
+  }
+  

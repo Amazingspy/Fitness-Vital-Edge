@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './Topbar.css';
-import { Container, Row, Col, Form, InputGroup, Offcanvas, Nav } from 'react-bootstrap';
+import { Container, Row, Col, Form, InputGroup, Offcanvas, Nav, NavDropdown } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
 import profileImg from '../../Assets/Avatar w. photo.png';
 import { FaSearch } from 'react-icons/fa';
 import { FiMenu } from 'react-icons/fi';
@@ -10,17 +11,25 @@ import progressIcon from '../../Assets/Progres.png';
 import workoutIcon from '../../Assets/Workout.png';
 import settingsIcon from '../../Assets/Vector.png';
 import logoutIcon from '../../Assets/Logout.png';
+import calendarIcon from '../../Assets/calendar-check (1).png'
 
 function Topbar() {
   const [showOffcanvas, setShowOffcanvas] = useState(false);
 
   const handleOffcanvasToggle = () => setShowOffcanvas(!showOffcanvas);
-
+  const handleOffcanvasClose = () => setShowOffcanvas(false);
   const menuLinks = [
     { to: '/', label: 'Home', icon: dashIcon },
-    { to: '/mealplan', label: 'Meal Plan', icon: mealIcon },
+    {label: 'Meal Plan', icon: mealIcon, dropdown:[
+      { to: '/mealplan', label: 'Main Plan', icon: mealIcon },
+      { to: '/mealplan/calendar', label: 'Calendar', icon: calendarIcon }
+    ]},
     { to: '/progress', label: 'Progress', icon: progressIcon },
-    { to: '/workout', label: 'Workout', icon: workoutIcon },
+    { label: 'Workout', icon: workoutIcon, dropdown: [
+        { to: '/workout', label: 'Training Plan', icon: workoutIcon },
+        { to: '/workout/WorkoutTraining', label: 'Schedule', icon: calendarIcon }
+      ]
+    },
   ];
 
   const footerLinks = [
@@ -40,6 +49,7 @@ function Topbar() {
               </button>
             </Col>
 
+            {/* Welcome Message */}
             <Col xs={12} md={4} className="text-center text-md-start order-1 order-md-1 welcome">
               <h4 className="welcome-message">Welcome Back!</h4>
             </Col>
@@ -61,9 +71,6 @@ function Topbar() {
               </Form>
             </Col>
 
-
-
-            {/* Profile Image */}
             <Col xs="auto" md={4} className="text-end order-3 order-md-3">
               <img src={profileImg} alt="Profile" className="profile-img" />
             </Col>
@@ -71,27 +78,61 @@ function Topbar() {
         </Container>
       </div>
 
-      {/* Offcanvas Sidebar for Mobile */}
-      <Offcanvas show={showOffcanvas} onHide={handleOffcanvasToggle} placement="start">
+      <Offcanvas show={showOffcanvas} onHide={handleOffcanvasClose} placement="start">
         <Offcanvas.Header closeButton>
           <Offcanvas.Title>Main Trend</Offcanvas.Title>
         </Offcanvas.Header>
         <Offcanvas.Body>
           <Nav className="flex-column">
             {menuLinks.map((link, index) => (
-              <Nav.Link key={index} href={link.to} className="nav-link">
-                <img src={link.icon} alt={`${link.label} icon`} className="menu-icon" />
-                {link.label}
-              </Nav.Link>
+              link.dropdown ? (
+                <NavDropdown
+                  key={index}
+                  title={
+                    <>
+                      <img src={link.icon} alt={`${link.label} icon`} className="menu-icon" />
+                      {link.label}
+                    </>
+                  }
+                  id={`dropdown-${index}`}
+                >
+                  {link.dropdown.map((subLink, subIndex) => (
+                    <NavLink
+                      key={subIndex}
+                      to={subLink.to}
+                      className={({ isActive }) => (isActive ? 'active nav-link' : 'nav-link')}
+                      onClick={handleOffcanvasClose}
+                    >
+                      <img src={subLink.icon} alt={`${subLink.label} icon`} className="menu-icon" />
+                      {subLink.label}
+                    </NavLink>
+                  ))}
+                </NavDropdown>
+              ) : (
+                <NavLink
+                  key={index}
+                  to={link.to}
+                  className={({ isActive }) => (isActive ? 'active nav-link' : 'nav-link')}
+                  onClick={handleOffcanvasClose}
+                >
+                  <img src={link.icon} alt={`${link.label} icon`} className="menu-icon" />
+                  {link.label}
+                </NavLink>
+              )
             ))}
           </Nav>
           <hr />
           <Nav className="flex-column">
             {footerLinks.map((link, index) => (
-              <Nav.Link key={index} href={link.to} className="nav-link">
+              <NavLink
+                key={index}
+                to={link.to}
+                className={({ isActive }) => (isActive ? 'active nav-link' : 'nav-link')}
+                onClick={handleOffcanvasClose}
+              >
                 <img src={link.icon} alt={`${link.label} icon`} className="menu-icon" />
                 {link.label}
-              </Nav.Link>
+              </NavLink>
             ))}
           </Nav>
         </Offcanvas.Body>

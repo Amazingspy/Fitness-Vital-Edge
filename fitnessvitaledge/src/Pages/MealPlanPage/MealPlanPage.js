@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './MealPlanPage.css';
+// import DatePicker from 'react-datepicker'
 import { Container, Row, Col, Button, Dropdown, DropdownButton, Form, InputGroup, Card, Modal } from 'react-bootstrap';
-import { FaChevronLeft, FaChevronRight, FaSearch, FaFilter, FaEdit, FaPlus } from 'react-icons/fa';
+import { FaChevronLeft, FaChevronRight, FaSearch, FaFilter, FaEdit, FaPlus, FaCalendarAlt } from 'react-icons/fa';
 
 function getCurrentMonthYear(offset = 0) {
   const currentDate = new Date();
@@ -49,10 +50,12 @@ function MealPlanPage() {
   const [mealData, setMealData] = useState(MealData);
   const [editingMeal, setEditingMeal] = useState(null);
   const [mealInput, setMealInput] = useState('');
+  const [selectedDate, setselectedDate] = useState(new Date())
+  const [showCalendar, setshowCalendar] = useState(false)
 
   useEffect(() => {
-    setCurrentMonthYear(getCurrentMonthYear(monthOffset));
-  }, [monthOffset]);
+    setCurrentMonthYear(selectedDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric' }));
+  }, [selectedDate]);
 
   const handlePreviousMonth = () => setMonthOffset((prev) => prev - 1);
   const handleNextMonth = () => setMonthOffset((prev) => prev + 1);
@@ -82,7 +85,7 @@ function MealPlanPage() {
 
     <div>
       <div className="meal-plan-page">
-        <Container fluid className="meal-plan-header">
+      <Container fluid className="meal-plan-header">
           <Button variant="light" className="nav-btn" onClick={handlePreviousMonth}>
             <FaChevronLeft />
           </Button>
@@ -94,6 +97,21 @@ function MealPlanPage() {
             <Dropdown.Item onClick={() => setMonthOffset(-1)}>Previous Month</Dropdown.Item>
             <Dropdown.Item onClick={() => setMonthOffset(1)}>Next Month</Dropdown.Item>
           </DropdownButton>
+{/* 
+          <div className="calendar-picker">
+            <Button variant='light' onClick={()=> setshowCalendar(true)}>
+              {currentMonthYear}
+            </Button>
+            {showCalendar && (
+              <DatePicker
+              selected = {selectedDate}
+              onChange = {(date)=>{
+                setselectedDate(date)
+                setshowCalendar(false)
+              }}
+              />
+             )}
+          </div> */}
 
           <div className="week-box">
             {/* <Button variant="light" onClick={handlePreviousWeek}>
@@ -156,7 +174,8 @@ function MealPlanPage() {
         ))}
       </Container>
 
-      <Modal show={editingMeal !== null} onHide={handleCloseModal}>
+      <Modal show={editingMeal !== null} onHide={handleCloseModal} aria-labelledby="contained-modal-title-vcenter"
+      centered>
         <Modal.Header closeButton>
           <Modal.Title>
             {editingMeal?.isEdit ? 'Edit Meal' : 'Add Meal'}

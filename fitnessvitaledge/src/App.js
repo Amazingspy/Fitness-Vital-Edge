@@ -10,6 +10,7 @@ import MealPlan from './Pages/MealPlanPage/MealPlanPage';
 import Progress from './Pages/ProgressPage/ProgressPage';
 import Workout from './Pages/WorkoutsPage/WorkoutsPage';
 import CalendarPage from './Pages/Calendar/Calendar'
+import WorkoutTraining from './Pages/WorkoutTraining/WorkoutTraining';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
                   <Route path="/mealplan/calendar" element={<CalendarPage />} />
                   <Route path="/progress" element={<Progress />} />
                   <Route path="/workout" element={<Workout />} />
+                  <Route path="/workout/:workoutTitle" element={<WorkoutTraining/>} />
                   <Route path="*" element={<h1>404 - Page Not Found</h1>} />
                 </Routes>
               </div>

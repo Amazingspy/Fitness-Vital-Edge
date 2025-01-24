@@ -1,5 +1,5 @@
 .dashboard {
-    background-color: #f9fafc;
+    background-color: #f7f7f7;
     padding: 1rem;
     overflow: hidden;
     display: flex;
@@ -13,13 +13,13 @@
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: auto auto auto;
     grid-template-areas: 
-      "cards1 cards2 cards3 cards4 schedule schedule"
-      "activity activity activity activity schedule schedule"
-      "activity activity activity activity schedule schedule"
-      "activity activity activity activity schedule schedule"
-      "progress1 progress1 progress1 progress2 progress2 progress2"
-      "progress1 progress1 progress1 progress2 progress2 progress2"
-      "progress1 progress1 progress1 progress2 progress2 progress2";
+        "cards1 cards2 cards3 cards4 schedule schedule"
+        "activity activity activity activity schedule schedule"
+        "activity activity activity activity schedule schedule"
+        "activity activity activity activity schedule schedule"
+        "progress1 progress1 progress1 progress2 progress2 progress2"
+        "progress1 progress1 progress1 progress2 progress2 progress2"
+        "progress1 progress1 progress1 progress2 progress2 progress2";
     gap: 1rem;
     flex-grow: 1;
     overflow-y: auto;
@@ -28,7 +28,6 @@
     -webkit-overflow-scrolling: touch;
 }
 
-/* Dashboard Items Styling */
 .stats-cards1,
 .stats-cards2,
 .stats-cards3,
@@ -46,37 +45,14 @@
 }
 
 /* Grid Areas */
-.stats-cards1 {
-    grid-area: cards1;
-}
-
-.stats-cards2 {
-    grid-area: cards2;
-}
-
-.stats-cards3 {
-    grid-area: cards3;
-}
-
-.stats-cards4 {
-    grid-area: cards4;
-}
-
-.activity {
-    grid-area: activity;
-}
-
-.schedule {
-    grid-area: schedule;
-}
-
-.progress1 {
-    grid-area: progress1;
-}
-
-.progress2 {
-    grid-area: progress2;
-}
+.stats-cards1 { grid-area: cards1; }
+.stats-cards2 { grid-area: cards2; }
+.stats-cards3 { grid-area: cards3; }
+.stats-cards4 { grid-area: cards4; }
+.activity { grid-area: activity; }
+.schedule { grid-area: schedule; }
+.progress1 { grid-area: progress1; }
+.progress2 { grid-area: progress2; }
 
 /* Typography */
 h6 {
@@ -106,38 +82,35 @@ p {
     border-radius: 10px;
 }
 
-/* Medium Devices (Tablets, iPads) */
+
 @media (max-width: 992px) {
     .dashboard-grid {
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-areas: 
-            "cards1 cards2"
-            "cards3 cards4"
-            "activity activity"
-            "schedule schedule"
-            "progress1 progress2";
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .stats-cards1,
+    .stats-cards2,
+    .stats-cards3,
+    .stats-cards4,
+    .activity,
+    .schedule,
+    .progress1,
+    .progress2 {
+        width: 100%;
+    }
+
+    .dashboard {
+        overflow-y: auto;
     }
 }
 
-/* Small Devices (Mobile Phones) */
 @media (max-width: 576px) {
     .dashboard {
-        height: 100%;
+        height: 95vh;
         overflow-y: auto;
-    }
-
-    .dashboard-grid {
-        grid-template-columns: 1fr;
-        grid-template-areas: 
-            "cards1"
-            "cards2"
-            "cards3"
-            "cards4"
-            "activity"
-            "schedule"
-            "progress1"
-            "progress2";
-        gap: 0.75rem;
+        padding: 0.5rem;
     }
 
     .stats-cards1,
@@ -158,5 +131,10 @@ p {
 
     p {
         font-size: 0.8rem;
+    }
+
+    .dashboard-grid {
+        flex-direction: column;
+        gap: 0.75rem;
     }
 }

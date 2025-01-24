@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import FullCalendar from '@fullcalendar/react';
-import dayGridPlugin from '@fullcalendar/daygrid';
-import timeGridPlugin from '@fullcalendar/timegrid';
-import interactionPlugin from '@fullcalendar/interaction';
+import dayGridPlugin from '@fullcalendar/daygrid'
+import timeGridPlugin from '@fullcalendar/timegrid'
+import interactionPlugin from '@fullcalendar/interaction'
 import { Modal, Button, Form } from 'react-bootstrap';
 import './Calendar.css';
 
@@ -40,7 +40,7 @@ function Calendar() {
     }
   };
 
- 
+
   const handleEventClick = (eventClickInfo) => {
     setSelectedEvent(eventClickInfo.event);
     setNewEventTitle(eventClickInfo.event._def.title);
@@ -89,10 +89,10 @@ function Calendar() {
       prevEvents.map((event) =>
         event.id === eventResizeInfo.event.id
           ? {
-              ...event,
-              start: eventResizeInfo.event.start,
-              end: eventResizeInfo.event.end,
-            }
+            ...event,
+            start: eventResizeInfo.event.start,
+            end: eventResizeInfo.event.end,
+          }
           : event
       )
     );
@@ -119,7 +119,9 @@ function Calendar() {
         eventResize={handleEventResize}
       />
 
-      <Modal show={showAddModal} onHide={() => setShowAddModal(false)}>
+
+      <Modal show={showAddModal} onHide={() => setShowAddModal(false)} aria-labelledby="contained-modal-title-vcenter"
+        centered>
         <Modal.Header closeButton>
           <Modal.Title>Add New Meal Event</Modal.Title>
         </Modal.Header>
@@ -146,7 +148,8 @@ function Calendar() {
         </Modal.Footer>
       </Modal>
 
-      <Modal show={showEditModal} onHide={() => setShowEditModal(false)}>
+      <Modal show={showEditModal} onHide={() => setShowEditModal(false)} aria-labelledby="contained-modal-title-vcenter"
+        centered>
         <Modal.Header closeButton>
           <Modal.Title>Edit Meal Event</Modal.Title>
         </Modal.Header>
