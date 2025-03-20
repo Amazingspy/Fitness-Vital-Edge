@@ -96,3 +96,8 @@
   height: auto;
   margin-bottom: 1rem;
 }
+
+
+.dropdown-menu{
+    inset: 0px auto auto -11px !important;
+}

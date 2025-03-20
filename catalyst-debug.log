@@ -11628,3 +11628,533 @@ Response Headers: {"server":"ZGS","date":"Fri, 24 Jan 2025 16:32:49 GMT","conten
 [debug] [2025-01-24T16:41:23.296Z] : <<<< HTTP RESPONSE : 200
 Response Headers: {"server":"ZGS","date":"Fri, 24 Jan 2025 16:41:22 GMT","content-length":"0","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
 
+[debug] [2025-02-13T10:06:55.451Z] : 
+[debug] [2025-02-13T10:06:55.452Z] : ----------------------------------------------------------------------
+[debug] [2025-02-13T10:06:55.452Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\Alex\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2025-02-13T10:06:55.452Z] : CLI Version:  1.18.0-beta.5
+[debug] [2025-02-13T10:06:55.453Z] : Platform:     win32
+[debug] [2025-02-13T10:06:55.453Z] : Node Version: v18.20.6
+[debug] [2025-02-13T10:06:55.455Z] : Time:         Thu Feb 13 2025 15:36:55 GMT+0530 (India Standard Time)
+[debug] [2025-02-13T10:06:55.456Z] : ----------------------------------------------------------------------
+[debug] [2025-02-13T10:06:55.456Z] : 
+[debug] [2025-02-13T10:06:56.067Z] : > authorizing via signed-in user option
+[debug] [2025-02-13T10:06:56.068Z] : > command requires scopes: ["ZohoCatalyst.projects.ALL","ZohoCatalyst.apigateway.apis.READ","ZohoCatalyst.apigateway.READ","ZohoCatalyst.segments.ALL","ZohoCatalyst.cache.READ","ZohoCatalyst.cache.CREATE","ZohoCatalyst.cache.DELETE","ZohoCatalyst.projects.ALL","ZohoCatalyst.cron.ALL","ZohoCatalyst.zcql.CREATE","ZohoCatalyst.projects.users.READ","ZohoCatalyst.projects.users.CREATE","ZohoCatalyst.projects.users.DELETE","ZohoCatalyst.projects.users.UPDATE","ZohoCatalyst.authentication.CREATE","ZohoCatalyst.email.CREATE","ZohoCatalyst.tables.ALL","ZohoCatalyst.tables.rows.ALL","ZohoCatalyst.tables.columns.ALL","ZohoCatalyst.tables.bulk.CREATE","ZohoCatalyst.tables.bulk.READ","ZohoCatalyst.folders.ALL","ZohoCatalyst.files.CREATE","ZohoCatalyst.files.READ","ZohoCatalyst.files.DELETE","ZohoCatalyst.functions.ALL","ZohoCatalyst.functions.EXECUTE","ZohoCatalyst.eventlistners.ALL","ZohoCatalyst.eventlisteners.produce","ZohoCatalyst.security.rules.Read","ZohoCatalyst.security.rules.Update","ZohoCatalyst.notifications.mobile","ZohoCatalyst.notifications.web","ZohoCatalyst.search.READ","ZohoCatalyst.mlkit.READ","QuickML.deployment.READ","ZohoCatalyst.pdfshot.execute","ZohoCatalyst.dataverse.execute","ZohoCatalyst.circuits.execution.DELETE","ZohoCatalyst.circuits.execution.READ","ZohoCatalyst.circuits.execute","ZohoCatalyst.appsail.Read","ZohoCatalyst.jobpool.READ","ZohoCatalyst.job.ALL","ZohoCatalyst.nosql.READ","ZohoCatalyst.nosql.rows.ALL"]
+[debug] [2025-02-13T10:06:56.086Z] : > refreshing access token <
+[debug] [2025-02-13T10:06:56.087Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-02-13T10:06:56.970Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 13 Feb 2025 10:06:58 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"close","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[debug] [2025-02-13T10:06:56.984Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001 
+
+[debug] [2025-02-13T10:06:57.945Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 13 Feb 2025 10:06:59 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2025-02-13T10:06:57.947Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/environment 
+
+[debug] [2025-02-13T10:06:58.785Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 13 Feb 2025 10:06:59 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2025-02-13T10:06:59.203Z] : >>>> HTTP REQUEST : GET https://api.catalyst.zoho.com/baas/v1/project/24005000000069001/function 
+Query params: {"type":"basicio,event,cron,applogic,integration,browser_logic,job"}
+
+[debug] [2025-02-13T10:06:59.988Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Thu, 13 Feb 2025 10:07:01 GMT","content-type":"application/vnd.catalyst.v2+json","transfer-encoding":"chunked","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+
+[debug] [2025-02-13T10:06:59.992Z] : unknown eol undefined hence skipping check
+[info] [2025-02-13T10:07:09.645Z] : [react-plugin]: Starting the development server...
+
+[info] [2025-02-13T10:07:09.647Z] : 
+[info] [2025-02-13T10:07:09.648Z] : i Client[fitnessvitaledge]: Plugin : "zcatalyst-cli-plugin-react" is used for client serve
+[info] [2025-02-13T10:07:09.649Z] : 
+[info] [2025-02-13T10:07:12.540Z] : 
+[info] [2025-02-13T10:07:12.541Z] :  >>>>>>>>>>>>> AdvancedIO <<<<<<<<<<<< 
+[info] [2025-02-13T10:07:12.541Z] : i fitness_vital_edge_function: http://localhost:3000/server/fitness_vital_edge_function/
+[info] [2025-02-13T10:07:12.541Z] : 
+[info] [2025-02-13T10:07:12.542Z] : 
+[info] [2025-02-13T10:07:12.542Z] :  >>>>>>>>>>>>> Web Client <<<<<<<<<<<<
+[info] [2025-02-13T10:07:12.542Z] : i client[fitnessvitaledge]: http://localhost:3000/app/
+[info] [2025-02-13T10:07:12.543Z] : 
+[info] [2025-02-13T10:07:15.119Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-13T10:07:15.120Z] : [react-plugin]: 
+[info] [2025-02-13T10:07:15.120Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-13T10:07:15.121Z] : [react-plugin]: 
+[info] [2025-02-13T10:07:15.121Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-13T10:07:15.123Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-13T10:07:15.123Z] : [react-plugin]: 
+[info] [2025-02-13T10:07:15.124Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-13T10:07:15.126Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-13T10:07:15.128Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:16.770Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:17:21.815Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-13T10:17:21.815Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:21.816Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-13T10:17:21.816Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:21.817Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-13T10:17:21.817Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-13T10:17:21.818Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:21.818Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-13T10:17:21.818Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-13T10:17:21.819Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:29.055Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:17:29.599Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-13T10:17:29.600Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:29.600Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-13T10:17:29.600Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:29.600Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-13T10:17:29.601Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-13T10:17:29.601Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:29.601Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-13T10:17:29.601Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-13T10:17:29.602Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:34.809Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:17:35.226Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-13T10:17:35.226Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:35.226Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-13T10:17:35.227Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:35.227Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-13T10:17:35.228Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-13T10:17:35.228Z] : [react-plugin]: 
+[info] [2025-02-13T10:17:35.229Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-13T10:17:35.229Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-13T10:17:35.229Z] : [react-plugin]: 
+[info] [2025-02-13T10:22:21.453Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:22:22.021Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-13T10:22:22.022Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Sidebar\Sidebar.js: Unexpected token, expected "from" (16:0)
+  14 | import c
+  15 |
+> 16 | function Sidebar() {
+     | ^
+  17 |   const menuLinks = [
+  18 |     { to: '/', label: 'Home', icon: dashIcon, exact: true },
+  19 |     { to: '/progress', label: 'Progress', icon: progressIcon },
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2025-02-13T10:25:39.857Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:25:40.628Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-13T10:25:40.629Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Sidebar\Sidebar.js: Unexpected token, expected "from" (16:0)
+  14 | import ca
+  15 |
+> 16 | function Sidebar() {
+     | ^
+  17 |   const menuLinks = [
+  18 |     { to: '/', label: 'Home', icon: dashIcon, exact: true },
+  19 |     { to: '/progress', label: 'Progress', icon: progressIcon },
+    at parser.next (<anonymous>)
+    at normalizeFile.next (<anonymous>)
+    at run.next (<anonymous>)
+    at transform.next (<anonymous>)
+[info] [2025-02-13T10:25:53.683Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:25:54.232Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-13T10:25:54.232Z] : [react-plugin]: Module not found: Error: Can't resolve '../../Assets/Fitness-Vital-Edge/fitnessvitaledge/src/Assets/calories-calculator.png' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Sidebar'
+[info] [2025-02-13T10:26:00.459Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:26:00.912Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-13T10:26:00.913Z] : [react-plugin]: [eslint] 
+src\Components\Sidebar\Sidebar.js
+  Line 14:8:  'calculator' is defined but never used  no-unused-vars
+[info] [2025-02-13T10:26:00.915Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-13T10:26:00.916Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-13T10:26:13.840Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:26:14.409Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-13T10:26:14.410Z] : [react-plugin]: [eslint] 
+src\Components\Sidebar\Sidebar.js
+  Line 69:23:  'calendarcalculatorIcon' is not defined  no-undef
+
+Search for the keywords to learn more about each error.
+[info] [2025-02-13T10:26:18.256Z] : [react-plugin]: Compiling...
+[info] [2025-02-13T10:26:18.652Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-13T10:26:18.653Z] : [react-plugin]: 
+[info] [2025-02-13T10:26:18.653Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-13T10:26:18.653Z] : [react-plugin]: 
+[info] [2025-02-13T10:26:18.653Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-13T10:26:18.654Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-13T10:26:18.654Z] : [react-plugin]: 
+[info] [2025-02-13T10:26:18.654Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-13T10:26:18.655Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-13T10:26:18.655Z] : [react-plugin]: 
+[debug] [2025-02-14T12:51:56.960Z] : > refreshing access token <
+[debug] [2025-02-14T12:51:57.024Z] : >>>> HTTP REQUEST : POST https://accounts.zoho.com/oauth/v2/token 
+<request body omitted>
+
+[debug] [2025-02-14T12:51:57.990Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 14 Feb 2025 12:51:59 GMT","content-type":"application/json;charset=UTF-8","content-length":"2393","connection":"close","cache-control":"no-store","x-content-type-options":"nosniff","pragma":"no-cache","x-frame-options":"SAMEORIGIN","vary":"accept-encoding","content-language":"en-US","strict-transport-security":"max-age=63072000"}
+
+[info] [2025-02-14T13:07:59.975Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-14T13:07:59.976Z] : [react-plugin]: Module not found: Error: Can't resolve '../../Assets/calories-calculator.png' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Sidebar'
+[info] [2025-02-14T13:08:35.594Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:08:36.320Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-14T13:08:36.321Z] : [react-plugin]: Module not found: Error: Can't resolve '../../Assets/Fitness-Vital-Edge/fitnessvitaledge/src/Assets/calories-calculator 1.png' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Sidebar'
+[info] [2025-02-14T13:08:39.685Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:08:40.064Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:08:40.064Z] : [react-plugin]: 
+[info] [2025-02-14T13:08:40.065Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:08:40.065Z] : [react-plugin]: 
+[info] [2025-02-14T13:08:40.065Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:08:40.066Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:08:40.066Z] : [react-plugin]: 
+[info] [2025-02-14T13:08:40.066Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:08:40.067Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:08:40.067Z] : [react-plugin]: 
+[info] [2025-02-14T13:11:05.712Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-14T13:11:05.713Z] : [react-plugin]: Module not found: Error: Can't resolve '../../Assets/calories-calculator 1.png' in 'C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Sidebar'
+[info] [2025-02-14T13:11:18.308Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:11:19.176Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:11:19.188Z] : [react-plugin]: 
+[info] [2025-02-14T13:11:19.190Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:11:19.192Z] : [react-plugin]: 
+[info] [2025-02-14T13:11:19.195Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:11:19.196Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:11:19.196Z] : [react-plugin]: 
+[info] [2025-02-14T13:11:19.197Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:11:19.198Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:11:19.199Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:07.520Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:15:09.075Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:15:09.075Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:09.075Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:15:09.076Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:09.076Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:15:09.076Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:15:09.077Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:09.077Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:15:09.077Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:15:09.078Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:13.884Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:15:14.177Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:15:14.177Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:14.177Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:15:14.178Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:14.178Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:15:14.179Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:15:14.179Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:14.179Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:15:14.180Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:15:14.180Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:16.216Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:15:16.526Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-14T13:15:16.529Z] : [react-plugin]: Syntax error: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Components\Sidebar\Sidebar.css Unclosed block (101:1)
+   99 | 
+  100 | 
+> 101 | #mealplan-dropdown{
+      | ^
+  102 |   element.style {
+  103 |     position: absolute;
+[info] [2025-02-14T13:15:19.155Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:15:19.612Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:15:19.612Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:19.612Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:15:19.612Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:19.613Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:15:19.613Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:15:19.613Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:19.614Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:15:19.614Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:15:19.614Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:22.997Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:15:23.749Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:15:23.749Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:23.750Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:15:23.750Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:23.750Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:15:23.751Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:15:23.751Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:23.751Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:15:23.752Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:15:23.752Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:25.423Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:15:25.708Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:15:25.708Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:25.708Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:15:25.709Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:25.709Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:15:25.709Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:15:25.709Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:25.710Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:15:25.710Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:15:25.710Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:27.565Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:15:27.821Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:15:27.821Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:27.821Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:15:27.822Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:27.822Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:15:27.822Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:15:27.823Z] : [react-plugin]: 
+[info] [2025-02-14T13:15:27.823Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:15:27.823Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:15:27.824Z] : [react-plugin]: 
+[info] [2025-02-14T13:16:00.410Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:16:00.819Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:16:00.819Z] : [react-plugin]: 
+[info] [2025-02-14T13:16:00.819Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:16:00.819Z] : [react-plugin]: 
+[info] [2025-02-14T13:16:00.820Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:16:00.820Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:16:00.821Z] : [react-plugin]: 
+[info] [2025-02-14T13:16:00.821Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:16:00.822Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:16:00.822Z] : [react-plugin]: 
+[info] [2025-02-14T13:16:01.578Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:16:02.338Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:16:02.344Z] : [react-plugin]: 
+[info] [2025-02-14T13:16:02.344Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:16:02.345Z] : [react-plugin]: 
+[info] [2025-02-14T13:16:02.346Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:16:02.346Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:16:02.347Z] : [react-plugin]: 
+[info] [2025-02-14T13:16:02.347Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:16:02.348Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:16:02.349Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:21.364Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:22:22.025Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:22:22.026Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:22.026Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:22:22.026Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:22.026Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:22:22.027Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:22:22.027Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:22.027Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:22:22.028Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:22:22.028Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:31.979Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:22:32.418Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:22:32.418Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:32.418Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:22:32.419Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:32.419Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:22:32.420Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:22:32.420Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:32.421Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:22:32.421Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:22:32.423Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:46.880Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:22:47.274Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:22:47.274Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:47.274Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:22:47.275Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:47.275Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:22:47.275Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:22:47.275Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:47.276Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:22:47.276Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:22:47.277Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:55.099Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:22:55.494Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:22:55.494Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:55.494Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:22:55.495Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:55.496Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:22:55.496Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:22:55.496Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:55.497Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:22:55.497Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:22:55.498Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:58.463Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:22:59.028Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:22:59.029Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:59.029Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:22:59.029Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:59.030Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:22:59.031Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:22:59.031Z] : [react-plugin]: 
+[info] [2025-02-14T13:22:59.096Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:22:59.098Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:22:59.104Z] : [react-plugin]: 
+[info] [2025-02-14T13:23:20.426Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:23:20.948Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:23:20.949Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 14:8:  'CalorieCalculator' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:23:20.949Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:23:20.950Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:23:46.993Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:23:47.612Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:23:47.612Z] : [react-plugin]: [eslint] 
+src\App.js
+  Line 14:8:  'CalorieCalculator' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:23:47.613Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:23:47.614Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:23:50.420Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:23:50.783Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:23:50.783Z] : [react-plugin]: 
+[info] [2025-02-14T13:23:50.783Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:23:50.784Z] : [react-plugin]: 
+[info] [2025-02-14T13:23:50.784Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:23:50.784Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:23:50.785Z] : [react-plugin]: 
+[info] [2025-02-14T13:23:50.785Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:23:50.786Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:23:50.786Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:06.772Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:24:07.086Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-14T13:24:07.087Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 7:8:  'H1' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+[info] [2025-02-14T13:24:22.171Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:24:22.482Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-14T13:24:22.482Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 7:8:  'H1' is not defined  react/jsx-no-undef
+
+Search for the keywords to learn more about each error.
+[info] [2025-02-14T13:24:25.573Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:24:26.039Z] : [react-plugin]: Failed to compile.
+
+[info] [2025-02-14T13:24:26.039Z] : [react-plugin]: SyntaxError: C:\Users\Alex\Vital_Edge\Fitness_vital_edge\Fitness-Vital-Edge\fitnessvitaledge\src\Pages\CalorieCalculator\CalorieCalculator.js: Expected corresponding JSX closing tag for <h1>. (7:28)
+   5 |   return (
+   6 |     <div>
+>  7 |       <h1>Calorie Calculator</H1>
+     |                             ^
+   8 |     </div>
+   9 |   )
+  10 | }
+[info] [2025-02-14T13:24:29.908Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:24:30.511Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:24:30.512Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:30.512Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:24:30.512Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:30.512Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:24:30.512Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:24:30.512Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:30.512Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:24:30.512Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:24:30.513Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:40.514Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:24:40.821Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:24:40.822Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:40.822Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:24:40.822Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:40.822Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:24:40.823Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:24:40.823Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:40.823Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:24:40.824Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:24:40.824Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:51.257Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:24:51.605Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:24:51.605Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:51.605Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:24:51.606Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:51.606Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:24:51.606Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:24:51.607Z] : [react-plugin]: 
+[info] [2025-02-14T13:24:51.607Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:24:51.608Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:24:51.608Z] : [react-plugin]: 
+[info] [2025-02-14T13:25:30.414Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:25:30.768Z] : [react-plugin]: Compiled successfully!
+[info] [2025-02-14T13:25:30.768Z] : [react-plugin]: 
+[info] [2025-02-14T13:25:30.768Z] : [react-plugin]: You can now view fitnessvitaledge in the browser.
+[info] [2025-02-14T13:25:30.769Z] : [react-plugin]: 
+[info] [2025-02-14T13:25:30.769Z] : [react-plugin]:   Local:            http://localhost:3000/app/
+[info] [2025-02-14T13:25:30.769Z] : [react-plugin]:   On Your Network:  http://10.71.117.169:3000/app/
+[info] [2025-02-14T13:25:30.770Z] : [react-plugin]: 
+[info] [2025-02-14T13:25:30.770Z] : [react-plugin]: Note that the development build is not optimized.
+[info] [2025-02-14T13:25:30.771Z] : [react-plugin]: To create a production build, use npm run build.
+[info] [2025-02-14T13:25:30.771Z] : [react-plugin]: 
+[info] [2025-02-14T13:27:56.948Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:27:57.469Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:27:57.470Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 1:16:  'useState' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:27:57.470Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:27:57.470Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:40:48.952Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:40:49.558Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:40:49.558Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 1:16:  'useState' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:40:49.559Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:40:49.559Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:41:01.452Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:41:01.830Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:41:01.831Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 1:16:  'useState' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:41:01.831Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:41:01.831Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:41:19.062Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:41:19.597Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:41:19.598Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 1:16:  'useState' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:41:19.598Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:41:19.599Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:41:23.116Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:41:23.483Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:41:23.484Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 1:16:  'useState' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:41:23.484Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:41:23.484Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:41:29.164Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:41:29.592Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:41:29.593Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 1:16:  'useState' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:41:29.593Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:41:29.594Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:41:56.135Z] : [react-plugin]: Compiling...
+[info] [2025-02-14T13:41:56.598Z] : [react-plugin]: Compiled with warnings.
+
+[info] [2025-02-14T13:41:56.598Z] : [react-plugin]: [eslint] 
+src\Pages\CalorieCalculator\CalorieCalculator.js
+  Line 1:16:  'useState' is defined but never used  no-unused-vars
+[info] [2025-02-14T13:41:56.598Z] : [react-plugin]: 
+Search for the keywords to learn more about each warning.
+[info] [2025-02-14T13:41:56.601Z] : [react-plugin]: To ignore, add // eslint-disable-next-line to the line before.
+
+[info] [2025-02-14T13:47:25.101Z] : Shutting down server
+[info] [2025-02-14T13:47:25.427Z] : 
+[info] [2025-02-14T13:47:25.428Z] : √ Shutdown complete
+[debug] [2025-02-14T13:47:25.429Z] : NO ERRORS REGISTERED
+[debug] [2025-02-14T13:47:25.430Z] : EXEC ENDED with event: serve, message: success
+[debug] [2025-02-14T13:47:25.430Z] : TOTAL DURATION OF COMMAND EXEC : 99629379
+[debug] [2025-02-14T13:47:25.453Z] : >>>> HTTP REQUEST : POST https://api.catalyst.zoho.com/baas/v1/cli/logs 
+<request body omitted>
+
+[debug] [2025-02-14T13:47:26.730Z] : <<<< HTTP RESPONSE : 200
+Response Headers: {"server":"ZGS","date":"Fri, 14 Feb 2025 13:47:28 GMT","content-length":"0","connection":"close","x-content-type-options":"nosniff","x-xss-protection":"1","cache-control":"private,no-cache,no-store,max-age=0,must-revalidate","pragma":"no-cache","expires":"Thu, 01 Jan 1970 00:00:00 GMT","x-frame-options":"DENY","strict-transport-security":"max-age=63072000"}
+

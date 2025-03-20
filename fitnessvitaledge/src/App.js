@@ -11,6 +11,7 @@ import Progress from './Pages/ProgressPage/ProgressPage';
 import Workout from './Pages/WorkoutsPage/WorkoutsPage';
 import CalendarPage from './Pages/Calendar/Calendar'
 import WorkoutTraining from './Pages/WorkoutTraining/WorkoutTraining';
+import CalorieCalculator from './Pages/CalorieCalculator/CalorieCalculator';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
                   <Route path="/" element={<HomePage />} />
                   <Route path="/mealplan" element={<MealPlan />} />
                   <Route path="/mealplan/calendar" element={<CalendarPage />} />
+                  <Route path="/mealplan/CalorieCalculator" element={<CalorieCalculator />} />
                   <Route path="/progress" element={<Progress />} />
                   <Route path="/workout" element={<Workout />} />
                   <Route path="/workout/:workoutTitle" element={<WorkoutTraining/>} />

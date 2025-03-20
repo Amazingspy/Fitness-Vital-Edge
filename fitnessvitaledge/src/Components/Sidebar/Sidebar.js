@@ -11,6 +11,7 @@ import logoutIcon from '../../Assets/Logout.png';
 import calendarIcon from '../../Assets/calendar-check (1).png';
 import workoutplan from '../../Assets/Goal.png'
 import training from '../../Assets/Schedule.png'
+import calculator from '../../Assets/calories-calculator 1.png'
 
 function Sidebar() {
   const menuLinks = [
@@ -63,6 +64,14 @@ function Sidebar() {
           <NavDropdown.Item as={NavLink} to="/mealplan/calendar">
             <img src={calendarIcon} alt="Calendar" className="menu-icon" />
             Calendar
+          </NavDropdown.Item>
+          <NavDropdown.Item as={NavLink} to="/mealplan/CalorieCalculator">
+            <img src={calculator} alt="Calculator" className="menu-icon" />
+            Calorie Calculator
+          </NavDropdown.Item>
+          <NavDropdown.Item as={NavLink} to="/mealplan/CalorieCalculator">
+            <img src={mealIcon} alt="Meal Plan" className="menu-icon" />
+            Meal Plan
           </NavDropdown.Item>
         </NavDropdown>
 
